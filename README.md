@@ -5,3 +5,4 @@
 * 11/22：Beck本第4章、L-smooth前半
 * 12/05：RMDPのPIアルゴリズムの実装
 * 12/25：[On the Theory of Policy Gradient Methods](https://arxiv.org/abs/1908.00261),直接パラメータ化のSample Complexity導出
+* 01/98：Occupancy Measureを解析したいの章
