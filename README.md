@@ -13,4 +13,5 @@
 * 02/16：sim2real paper
 * 03/03：SPGにおけるN-PG-IGTの証明(1)
 * 03/04：SPGにおけるN-PG-IGTの証明(完)
+* 03/05：SPGとN-PG-IGTを組み合わたアルゴリズム素案の作成
   
