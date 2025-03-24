@@ -1,4 +1,67 @@
-### syumi-note
+# syumi-note
+
+## 分野別のNotebook一覧
+
+### 強化学習
+
+#### Reinforcement Learning : Theory and Algorithms（通称：Sutton本やRL Theorybookに基づく理論的内容）
+- 第1章（線形計画）：[RL_Theorybook_Chapter_1_LP.ipynb](RL_Theorybook_Chapter_1_LP.ipynb)
+- 第1章：[RL_Theorybook_Chapter_1.ipynb](RL_Theorybook_Chapter_1.ipynb)
+- 第2章：[RL_Theorybook_Chapter_2.ipynb](RL_Theorybook_Chapter_2.ipynb)
+- 第3章：[RL_Theorybook_Chapter_3.ipynb](RL_Theorybook_Chapter_3.ipynb)
+- 第11章：[RL_Theorybook_chapter_11.ipynb](RL_Theorybook_chapter_11.ipynb)
+- 第12章：[RL_Theorybook_Chapter_12.ipynb](RL_Theorybook_Chapter_12.ipynb)
+- 第14章（Conservative Policy Iteration）：[RL_Theorybook_Chapter_14_CPI.ipynb](RL_Theorybook_Chapter_14_CPI.ipynb)
+
+#### その他のRL関連
+- モデルフリーRL：[RL_Model_Free.ipynb](RL_Model_Free.ipynb)
+- sim2real：[RL_sim2real.ipynb](RL_sim2real.ipynb)
+- 方策勾配法（Stochastic）：[RL_Stochastic_Policy_Gradient.ipynb](RL_Stochastic_Policy_Gradient.ipynb)
+- 方策勾配法（理論）：[RL_Theory of Policy Gradient.ipynb](RL_Theory of Policy Gradient.ipynb)
+- 有限MDP理論（Puterman）：[MDP_Puterman_Infinite_Horizon.ipynb](MDP_Puterman_Infinite_Horizon.ipynb)
+
+---
+
+### 分布ロバスト最適化（DRO）
+
+- DRO理論（第3章）：[DRO_Chapter_3.ipynb](DRO_Chapter_3.ipynb)
+- 不確実集合の定式化：[DRO_Uncertainty_sets.ipynb](DRO_Uncertainty_sets.ipynb)
+- RMDPの理論：[Paper_RMDP_thoery.ipynb](Paper_RMDP_thoery.ipynb)
+- RMDPの基礎：[RMDP_foundations.ipynb](RMDP_foundations.ipynb)
+- RDP実装：[Paper_RDP_implement.ipynb](Paper_RDP_implement.ipynb)
+
+---
+
+### CMDP（制約付きMDP）
+
+- Altman本 第3章：[CMDP_Altman_Chapter_3.ipynb](CMDP_Altman_Chapter_3.ipynb)
+- RCMDPのサブルーチン：[RCMDP_subrountine.ipynb](RCMDP_subrountine.ipynb)
+
+---
+
+### 凸最適化と非線形最適化
+
+#### First-order Methods in Optimization（Beck）
+- 第4章（L-smooth & Strong Convex）：[Beck_gradient_Chapter_4_L-smooth_strong_convex.ipynb](Beck_gradient_Chapter_4_L-smooth_strong_convex.ipynb)
+
+#### 非線形最適化
+- Chapter 1 + 可視化：[Non_Linear_optimization_chapter1_and_visualization.ipynb](Non_Linear_optimization_chapter1_and_visualization.ipynb)
+- Chapter 2：[Non_Linear_optimization_chapter2.ipynb](Non_Linear_optimization_chapter2.ipynb)
+- 基礎（別アプローチ）：[NonLinear_foundation_chapter1.ipynb](NonLinear_foundation_chapter1.ipynb)
+
+---
+
+### その他
+
+- シミュレーション補題に関する考察：[Paper_Simulation_Lemma.ipynb](Paper_Simulation_Lemma.ipynb)
+- Simplex法によるMDP解法：[Paper_Simplex_MDP.ipynb](Paper_Simplex_MDP.ipynb)
+- 拡散モデルの理論：[Theory_of_diffusion_model.ipynb](Theory_of_diffusion_model.ipynb)
+- RL用ユーティリティ：[RL_utils.ipynb](RL_utils.ipynb)
+- 研究進捗まとめ：[research_progress.ipynb](research_progress.ipynb)
+
+
+
+## 日付順のNotebook一覧
 
 * 11/20：Beck本第3章、劣勾配の基礎
 * 11/21：Beck本第3章、劣勾配の計算からKKT条件まで
