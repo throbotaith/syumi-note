@@ -51,6 +51,11 @@
 
 ---
 
+### 機械学習のための数理解析
+- 確率不等式大全:[Math_Probability_Inequalities.ipynb](Math_Probability_Inequalities.ipynb)
+
+
+
 ### その他
 
 - シミュレーション補題に関する考察：[Paper_Simulation_Lemma.ipynb](Paper_Simulation_Lemma.ipynb)
@@ -85,4 +90,5 @@
 * 03/19：強化学習理論本14章,保守的方策反復
 * 03/22：凸解析の基礎
 * 03/26：凸解析の基礎2
+* 03/27：確率不等式１．マルコフの不等式
   
