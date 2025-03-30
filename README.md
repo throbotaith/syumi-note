@@ -46,9 +46,8 @@
 
 #### 非線形最適化
 - Chapter 1 + 可視化：[Non_Linear_optimization_chapter1_and_visualization.ipynb](Non_Linear_optimization_chapter1_and_visualization.ipynb)
-- Chapter 2：[Non_Linear_optimization_chapter2.ipynb](Non_Linear_optimization_chapter2.ipynb)
-- 基礎（別アプローチ）：[NonLinear_foundation_chapter1.ipynb](NonLinear_foundation_chapter1.ipynb)
-
+- Chapter 2_part1(超平面、分離超平面、支持超平面、凸集合、陰関数定理など)：[Non_Linear_optimization_chapter2_part1.ipynb](Non_Linear_optimization_chapter2.ipynb)
+- Chapter 2_part2(凸関数、共役関数、劣勾配など)：[Non_Linear_optimization_chapter2_part1.ipynb](Non_Linear_optimization_chapter2_part2.ipynb)
 ---
 
 ### 機械学習のための数理解析
