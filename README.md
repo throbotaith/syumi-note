@@ -14,28 +14,29 @@
 - 第14章（Conservative Policy Iteration）：[RL_Theorybook_Chapter_14_CPI.ipynb](RL_Theorybook_Chapter_14_CPI.ipynb)
 
 #### その他のRL関連
-- モデルフリーRL：[RL_Model_Free.ipynb](RL_Model_Free.ipynb)
+- モデルフリーRLの復習：[RL_Model_Free.ipynb](RL_Model_Free.ipynb)
 - sim2real：[RL_sim2real.ipynb](RL_sim2real.ipynb)
-- 方策勾配法（Stochastic）：[RL_Stochastic_Policy_Gradient.ipynb](RL_Stochastic_Policy_Gradient.ipynb)
-- 方策勾配法（理論）：[RL_Theory of Policy Gradient.ipynb](RL_Theory of Policy Gradient.ipynb)
+- 確率的方策勾配法：[RL_Stochastic_Policy_Gradient.ipynb](RL_Stochastic_Policy_Gradient.ipynb)
+- 方策勾配法の理論：[RL_Theory of Policy Gradient.ipynb](RL_Theory of Policy Gradient.ipynb)
 - 有限MDP理論（Puterman）：[MDP_Puterman_Infinite_Horizon.ipynb](MDP_Puterman_Infinite_Horizon.ipynb)
-
 ---
 
-### 分布ロバスト最適化（DRO）
-
-- DRO理論（第3章）：[DRO_Chapter_3.ipynb](DRO_Chapter_3.ipynb)
-- 不確実集合の定式化：[DRO_Uncertainty_sets.ipynb](DRO_Uncertainty_sets.ipynb)
-- RMDPの理論：[Paper_RMDP_thoery.ipynb](Paper_RMDP_thoery.ipynb)
-- RMDPの基礎：[RMDP_foundations.ipynb](RMDP_foundations.ipynb)
-- RDP実装：[Paper_RDP_implement.ipynb](Paper_RDP_implement.ipynb)
-
+#### ロバストMDP（RMDP）
+- RMDP理論論文の証明：[Paper_RMDP_thoery.ipynb](Paper_RMDP_thoery.ipynb)
+- RMDPの基礎から方策勾配法まで（メモ）：[RMDP_foundations.ipynb](RMDP_foundations.ipynb)
+- RDPにおける動的計画法のPythonコード：[Paper_RDP_implement.ipynb](Paper_RDP_implement.ipynb)
 ---
 
 ### CMDP（制約付きMDP）
 
 - Altman本 第3章：[CMDP_Altman_Chapter_3.ipynb](CMDP_Altman_Chapter_3.ipynb)
 - RCMDPのサブルーチン：[RCMDP_subrountine.ipynb](RCMDP_subrountine.ipynb)
+---
+
+### 分布ロバスト最適化（DRO）
+
+- DRO理論本 第2章(導入、不確実性集合)：[DRO_Chapter_2_uncertainty_sets.ipynb](DRO_Chapter_2_uncertainty_sets.ipynb)
+- DRO理論本 第3章(不確実性集合のトポロジー性質)：[DRO_Chapter_3_topology_of_uncertainty_sets.ipynb](DRO_Chapter_3_topology_of_uncertainty_sets.ipynb)
 
 ---
 
@@ -44,7 +45,7 @@
 #### First-order Methods in Optimization（Beck）
 - 第4章（L-smooth & Strong Convex）：[Beck_gradient_Chapter_4_L-smooth_strong_convex.ipynb](Beck_gradient_Chapter_4_L-smooth_strong_convex.ipynb)
 
-#### 非線形最適化
+#### 非線形最適化の基礎
 - Chapter 1 + 可視化：[Non_Linear_optimization_chapter1_and_visualization.ipynb](Non_Linear_optimization_chapter1_and_visualization.ipynb)
 - Chapter 2_part1(超平面、分離超平面、支持超平面、凸集合、陰関数定理など)：[Non_Linear_optimization_chapter2_part1.ipynb](Non_Linear_optimization_chapter2.ipynb)
 - Chapter 2_part2(凸関数、共役関数、劣勾配など)：[Non_Linear_optimization_chapter2_part1.ipynb](Non_Linear_optimization_chapter2_part2.ipynb)
@@ -93,3 +94,5 @@
 * 03/28：サポート型不確実性集合
 * 03/29：$\phi$-ダイバージェンス不確実集合
 * 03/30：凸解析の基礎3(凸関数の性質)
+* 03/31：不確実性集合のトポロジー的性質
+
