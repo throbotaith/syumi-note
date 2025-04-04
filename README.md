@@ -12,6 +12,7 @@
 - 第11章：[RL_Theorybook_chapter_11.ipynb](RL_Theorybook_chapter_11.ipynb)
 - 第12章：[RL_Theorybook_Chapter_12.ipynb](RL_Theorybook_Chapter_12.ipynb)
 - 第14章（Conservative Policy Iteration）：[RL_Theorybook_Chapter_14_CPI.ipynb](RL_Theorybook_Chapter_14_CPI.ipynb)
+- 第14章（Trust Region Policy Optimization(and PPO)）：[RL_Theorybook_Chapter_14_TRPO_PPO.ipynb](RL_Theorybook_Chapter_14_TRPO_PPO.ipynb)
 
 #### その他のRL関連
 - モデルフリーRLの復習：[RL_Model_Free.ipynb](RL_Model_Free.ipynb)
@@ -98,4 +99,5 @@
 28. 04/01：分布ロバスト最適化における双対理論
 29. 04/02：パフォーマンス差とシミュレーション差
 30. 04/03：PAC学習
+31. 04/04：強化学習理論本14章TRPO
 
