@@ -53,7 +53,8 @@
 ---
 
 ### 機械学習のための数理解析
-- 確率不等式大全:[Math_Probability_Inequalities.ipynb](Math_Probability_Inequalities.ipynb)
+- 確率不等式大全:[Math_Probability_Inequalities.ipynb](Math_Probability_Inequalities.ipynb
+  *ファイル間違えているので修正予定
 
 
 
