@@ -57,14 +57,16 @@
   *ファイル間違えているので修正予定
 
 
+### 論文読み
+- シミュレーション補題に関する考察：[Paper_Simulation_Lemma.ipynb](Paper_Simulation_Lemma.ipynb)
+- Simplex法によるMDP解法：[Paper_Simplex_MDP.ipynb](Paper_Simplex_MDP.ipynb)
+- モーメンタムはSGDを改善させる：[Paper_Momentum_improves_SGD.ipynb](Paper_Momentum_improves_SGD.ipynb)
 
 ### その他
 
-- シミュレーション補題に関する考察：[Paper_Simulation_Lemma.ipynb](Paper_Simulation_Lemma.ipynb)
-- Simplex法によるMDP解法：[Paper_Simplex_MDP.ipynb](Paper_Simplex_MDP.ipynb)
+
 - 拡散モデルの理論：[Theory_of_diffusion_model.ipynb](Theory_of_diffusion_model.ipynb)
 - RL用ユーティリティ：[RL_utils.ipynb](RL_utils.ipynb)
-- 研究進捗まとめ：[research_progress.ipynb](research_progress.ipynb)
 
 
 
@@ -101,4 +103,5 @@
 29. 04/02：パフォーマンス差とシミュレーション差
 30. 04/03：PAC学習
 31. 04/04：強化学習理論本14章TRPO
+32. 04/05：モーメンタムはSGDを改善させる(論文)
 
