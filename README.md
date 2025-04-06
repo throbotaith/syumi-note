@@ -38,6 +38,7 @@
 
 - DRO理論本 第2章(導入、不確実性集合)：[DRO_Chapter_2_uncertainty_sets.ipynb](DRO_Chapter_2_uncertainty_sets.ipynb)
 - DRO理論本 第3章(不確実性集合のトポロジー性質)：[DRO_Chapter_3_topology_of_uncertainty_sets.ipynb](DRO_Chapter_3_topology_of_uncertainty_sets.ipynb)
+- DRO理論本 第4章(DROと双対問題)：[DRO_Chapter4_dual_theory_in_DRO.ipynb](DRO_Chapter4_dual_theory_in_DRO.ipynb)
 
 ---
 
@@ -99,10 +100,10 @@
 25. 03/29：$\phi$-ダイバージェンス不確実集合
 26. 03/30：凸解析の基礎3(凸関数の性質)
 27. 03/31：不確実性集合のトポロジー的性質
-28. 04/01：分布ロバスト最適化における双対理論(途中)
+28. 04/01：分布ロバスト最適化における双対理論1
 29. 04/02：パフォーマンス差とシミュレーション差
 30. 04/03：PAC学習
 31. 04/04：強化学習理論本14章TRPO
-32. 04/05：モーメンタムはSGDを改善させる(論文,途中)
-33. 04/06：モーメンタムはSGDを改善させる(論文,完了)、分布ロバスト最適化における双対理論
+32. 04/05：モーメンタムはSGDを改善させる1
+33. 04/06：モーメンタムはSGDを改善させる2(論文,完了)、分布ロバスト最適化における双対理論2
 
