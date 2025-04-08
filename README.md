@@ -26,6 +26,7 @@
 - RMDP理論論文の証明：[Paper_RMDP_thoery.ipynb](Paper_RMDP_thoery.ipynb)
 - RMDPの基礎から方策勾配法まで（メモ）：[RMDP_foundations.ipynb](RMDP_foundations.ipynb)
 - RDPにおける動的計画法のPythonコード：[Paper_RDP_implement.ipynb](Paper_RDP_implement.ipynb)
+- RMDPにおける方策勾配法の大域的最適性証明：[RMDP_PG_global_optimality.ipynb](RMDP_PG_global_optimality.ipynb)
 ---
 
 ### CMDP（制約付きMDP）
@@ -107,4 +108,5 @@
 32. 04/05：モーメンタムはSGDを改善させる1
 33. 04/06：モーメンタムはSGDを改善させる2(論文,完了)、分布ロバスト最適化における双対理論2
 34. 04/07：確率不等式(サブガウシアン、ベルンシュタインの不等式)
+35. 04/08：RMDPにおける方策勾配法の大域的最適性証明
 
