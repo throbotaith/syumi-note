@@ -63,6 +63,7 @@
 - シミュレーション補題に関する考察：[Paper_Simulation_Lemma.ipynb](Paper_Simulation_Lemma.ipynb)
 - Simplex法によるMDP解法：[Paper_Simplex_MDP.ipynb](Paper_Simplex_MDP.ipynb)
 - モーメンタムはSGDを改善させる：[Paper_Momentum_improves_SGD.ipynb](Paper_Momentum_improves_SGD.ipynb)
+- 価値関数ポリトープ：[Paper_Geometory_of_Value_Function.ipynb](Paper_Geometory_of_Value_Function.ipynb)
 
 ### その他
 
@@ -106,8 +107,9 @@
 30. 04/03：PAC学習
 31. 04/04：強化学習理論本14章TRPO
 32. 04/05：モーメンタムはSGDを改善させる1
-33. 04/06：モーメンタムはSGDを改善させる2(論文,完了)、分布ロバスト最適化における双対理論2
+33. 04/06：モーメンタムはSGDを改善させる2、分布ロバスト最適化における双対理論2
 34. 04/07：確率不等式(サブガウシアン、ベルンシュタインの不等式)
 35. 04/08：RMDPにおける方策勾配法の大域的最適性証明
 36. 04/09：sim2real paper2
+37. 04/10：価値関数のポリトープ(途中)
 
