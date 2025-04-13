@@ -20,6 +20,7 @@
 - 確率的方策勾配法：[RL_Stochastic_Policy_Gradient.ipynb](RL_Stochastic_Policy_Gradient.ipynb)
 - 方策勾配法の理論：[RL_Theory of Policy Gradient.ipynb](RL_Theory of Policy Gradient.ipynb)
 - 有限MDP理論（Puterman）：[MDP_Puterman_Infinite_Horizon.ipynb](MDP_Puterman_Infinite_Horizon.ipynb)
+- Q学習の収束性証明：[RL_Q_Learning_proof_convergence.ipynb](RL_Q_Learning_proof_convergence.ipynb)
 ---
 
 #### ロバストMDP（RMDP）
@@ -114,4 +115,5 @@
 37. 04/10：価値関数のポリトープ1
 38. 04/11：価値関数のポリトープ完
 39. 04/12：分布ロバスト最適化における双対理論(DRO4章)3
+40. 04/13：Q学習の収束性
 
