@@ -49,10 +49,11 @@
 #### First-order Methods in Optimization（Beck）
 - 第4章（L-smooth & Strong Convex）：[Beck_gradient_Chapter_4_L-smooth_strong_convex.ipynb](Beck_gradient_Chapter_4_L-smooth_strong_convex.ipynb)
 
-#### 非線形最適化の基礎
+#### 非線形最適化の基礎(福島先生の本(*一般的な定理のまとめのみ))
 - Chapter 1 + 可視化：[Non_Linear_optimization_chapter1_and_visualization.ipynb](Non_Linear_optimization_chapter1_and_visualization.ipynb)
 - Chapter 2_part1(超平面、分離超平面、支持超平面、凸集合、陰関数定理など)：[Non_Linear_optimization_chapter2_part1.ipynb](Non_Linear_optimization_chapter2.ipynb)
 - Chapter 2_part2(凸関数、共役関数、劣勾配など)：[Non_Linear_optimization_chapter2_part1.ipynb](Non_Linear_optimization_chapter2_part2.ipynb)
+- Chapter 3(最適性条件)：[Non_Linear_optimization_chapter3.ipynb](Non_Linear_optimization_chapter3.ipynb)
 ---
 
 ### 機械学習のための数理解析
@@ -116,4 +117,5 @@
 38. 04/11：価値関数のポリトープ完
 39. 04/12：分布ロバスト最適化における双対理論(DRO4章)3
 40. 04/13：Q学習の収束性
+41. 04/14：凸解析の基礎3(KKT条件)
 
