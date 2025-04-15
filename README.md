@@ -28,6 +28,7 @@
 - RMDPの基礎から方策勾配法まで（メモ）：[RMDP_foundations.ipynb](RMDP_foundations.ipynb)
 - RDPにおける動的計画法のPythonコード：[Paper_RDP_implement.ipynb](Paper_RDP_implement.ipynb)
 - RMDPにおける方策勾配法の大域的最適性証明：[RMDP_PG_global_optimality.ipynb](RMDP_PG_global_optimality.ipynb)
+- モデル推定を行わないRMDP：[Paper_RMDP_wo_model_estimation.ipynb](Paper_RMDP_wo_model_estimation.ipynb)
 ---
 
 ### CMDP（制約付きMDP）
@@ -118,4 +119,5 @@
 39. 04/12：分布ロバスト最適化における双対理論(DRO4章)3
 40. 04/13：Q学習の収束性
 41. 04/14：凸解析の基礎3(KKT条件)
+42. 04/15：モデル推定を行わないRMDP(途中)
 
