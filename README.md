@@ -67,6 +67,7 @@
 - Simplex法によるMDP解法：[Paper_Simplex_MDP.ipynb](Paper_Simplex_MDP.ipynb)
 - モーメンタムはSGDを改善させる：[Paper_Momentum_improves_SGD.ipynb](Paper_Momentum_improves_SGD.ipynb)
 - 価値関数ポリトープ：[Paper_Geometory_of_Value_Function.ipynb](Paper_Geometory_of_Value_Function.ipynb)
+- ロバスト価値関数ポリトープ[Paper_Geometory_of_Robust_Value_Function.ipynb](Paper_Geometory_of_Robust_Value_Function.ipynb)
 
 ### その他
 
@@ -120,4 +121,5 @@
 40. 04/13：Q学習の収束性
 41. 04/14：凸解析の基礎3(KKT条件)
 42. 04/15：モデル推定を行わないRMDP(途中)
+43. 04/16：ロバスト価値関数のポリトープ1
 
