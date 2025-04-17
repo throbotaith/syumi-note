@@ -58,8 +58,9 @@
 ---
 
 ### 機械学習のための数理解析
-- 確率不等式大全:[Math_Probability_Inequalities.ipynb](Math_Probability_Inequalities.ipynb
-  *ファイル間違えているので修正予定
+- 確率不等式大全:[Math_Probability_Inequalities.ipynb](Math_Probability_Inequalities.ipynb)
+- 一様収束と汎化解析(途中)[Math_Uniform_Convergence.ipynb](Math_Uniform_Convergence.ipynb)
+
 
 
 ### 論文読み
@@ -120,6 +121,7 @@
 39. 04/12：分布ロバスト最適化における双対理論(DRO4章)3
 40. 04/13：Q学習の収束性
 41. 04/14：凸解析の基礎3(KKT条件)
-42. 04/15：モデル推定を行わないRMDP(途中)
+42. 04/15：モデル推定を行わないRMDP1
 43. 04/16：ロバスト価値関数のポリトープ1
+44. 04/17：一様収束と汎化1
 
