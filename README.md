@@ -52,14 +52,14 @@
 
 #### 非線形最適化の基礎(福島先生の本(*一般的な定理のまとめのみ))
 - Chapter 1 + 可視化：[Non_Linear_optimization_chapter1_and_visualization.ipynb](Non_Linear_optimization_chapter1_and_visualization.ipynb)
-- Chapter 2_part1(超平面、分離超平面、支持超平面、凸集合、陰関数定理など)：[Non_Linear_optimization_chapter2_part1.ipynb](Non_Linear_optimization_chapter2.ipynb)
-- Chapter 2_part2(凸関数、共役関数、劣勾配など)：[Non_Linear_optimization_chapter2_part1.ipynb](Non_Linear_optimization_chapter2_part2.ipynb)
+- Chapter 2_part1(超平面、分離超平面、支持超平面、凸集合、陰関数定理など)：[Non_Linear_optimization_chapter2_part1.ipynb](Non_Linear_optimization_chapter2_part1.ipynb)
+- Chapter 2_part2(凸関数、共役関数、劣勾配など)：[Non_Linear_optimization_chapter2_part2.ipynb](Non_Linear_optimization_chapter2_part2.ipynb)
 - Chapter 3(最適性条件)：[Non_Linear_optimization_chapter3.ipynb](Non_Linear_optimization_chapter3.ipynb)
 ---
 
 ### 機械学習のための数理解析
 - 確率不等式大全:[Math_Probability_Inequalities.ipynb](Math_Probability_Inequalities.ipynb)
-- 一様収束と汎化解析(途中)[Math_Uniform_Convergence.ipynb](Math_Uniform_Convergence.ipynb)
+- 一様収束と汎化解析(途中)：[Math_Uniform_Convergence.ipynb](Math_Uniform_Convergence.ipynb)
 
 
 
@@ -124,4 +124,5 @@
 42. 04/15：モデル推定を行わないRMDP1
 43. 04/16：ロバスト価値関数のポリトープ1
 44. 04/17：一様収束と汎化1
+45. 04/18：強化学習理論本第1章　[RL_Theorybook_Chapter_1.ipynb](RL_Theorybook_Chapter_1.ipynb)
 
