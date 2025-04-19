@@ -9,6 +9,7 @@
 - 第1章：[RL_Theorybook_Chapter_1.ipynb](RL_Theorybook_Chapter_1.ipynb)
 - 第2章：[RL_Theorybook_Chapter_2.ipynb](RL_Theorybook_Chapter_2.ipynb)
 - 第3章：[RL_Theorybook_Chapter_3.ipynb](RL_Theorybook_Chapter_3.ipynb)
+- 第4章：[RL_Theorybook_Chapter_4.ipynb](RL_Theorybook_Chapter_4.ipynb)
 - 第11章：[RL_Theorybook_chapter_11.ipynb](RL_Theorybook_chapter_11.ipynb)
 - 第12章：[RL_Theorybook_Chapter_12.ipynb](RL_Theorybook_Chapter_12.ipynb)
 - 第14章（Conservative Policy Iteration）：[RL_Theorybook_Chapter_14_CPI.ipynb](RL_Theorybook_Chapter_14_CPI.ipynb)
@@ -125,4 +126,5 @@
 43. 04/16：ロバスト価値関数のポリトープ1
 44. 04/17：一様収束と汎化1
 45. 04/18：強化学習理論本第1章　[RL_Theorybook_Chapter_1.ipynb](RL_Theorybook_Chapter_1.ipynb)
+46. 04/19：強化学習理論本第1章(途中)　[RL_Theorybook_Chapter_4.ipynb](RL_Theorybook_Chapter_4.ipynb)
 
