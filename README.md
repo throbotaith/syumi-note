@@ -127,4 +127,5 @@
 44. 04/17：一様収束と汎化1
 45. 04/18：強化学習理論本第1章　[RL_Theorybook_Chapter_1.ipynb](RL_Theorybook_Chapter_1.ipynb)
 46. 04/19：強化学習理論本第4章(途中)　[RL_Theorybook_Chapter_4.ipynb](RL_Theorybook_Chapter_4.ipynb)
+47. 04/20：sim2real paper3
 
