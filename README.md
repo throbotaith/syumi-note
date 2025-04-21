@@ -32,6 +32,10 @@
 - モデル推定を行わないRMDP：[Paper_RMDP_wo_model_estimation.ipynb](Paper_RMDP_wo_model_estimation.ipynb)
 ---
 
+#### バンディット問題
+- ETCアルゴリズム：[Bandit_ETC.ipynb](Bandit_ETC.ipynb)
+
+
 ### CMDP（制約付きMDP）
 
 - Altman本 第3章：[CMDP_Altman_Chapter_3.ipynb](CMDP_Altman_Chapter_3.ipynb)
@@ -127,4 +131,5 @@
 44. 04/17：一様収束と汎化1
 45. 04/18：強化学習理論本第1章　[RL_Theorybook_Chapter_1.ipynb](RL_Theorybook_Chapter_1.ipynb)
 46. 04/19：強化学習理論本第1章(途中)　[RL_Theorybook_Chapter_4.ipynb](RL_Theorybook_Chapter_4.ipynb)
-
+47. 04/20：sim2real paper3
+48. 04/21：ETCアルゴリズム[Bandit_ETC.ipynb](Bandit_ETC.ipynb)
