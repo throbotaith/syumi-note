@@ -133,3 +133,4 @@
 46. 04/19：強化学習理論本第1章(途中)　[RL_Theorybook_Chapter_4.ipynb](RL_Theorybook_Chapter_4.ipynb)
 47. 04/20：sim2real paper3
 48. 04/21：ETCアルゴリズム[Bandit_ETC.ipynb](Bandit_ETC.ipynb)
+49. 04/22：凸関数の基礎4(双対問題)
