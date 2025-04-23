@@ -1,10 +1,10 @@
 # syumi-note
-
+勉強ノートですので正確とは限りません．途中の物もいくつかあります．
 ## 分野別のNotebook一覧
 
 ### 強化学習
 
-#### Reinforcement Learning : Theory and Algorithms（通称：Sutton本やRL Theorybookに基づく理論的内容）
+#### Reinforcement Learning : Theory and Algorithms（通称：Sutton本やRL Theorybook）
 - 第1章（線形計画）：[RL_Theorybook_Chapter_1_LP.ipynb](RL_Theorybook_Chapter_1_LP.ipynb)
 - 第1章：[RL_Theorybook_Chapter_1.ipynb](RL_Theorybook_Chapter_1.ipynb)
 - 第2章：[RL_Theorybook_Chapter_2.ipynb](RL_Theorybook_Chapter_2.ipynb)
@@ -134,4 +134,4 @@
 47. 04/20：sim2real paper3
 48. 04/21：ETCアルゴリズム[Bandit_ETC.ipynb](Bandit_ETC.ipynb)
 49. 04/22：凸関数の基礎4(双対問題)
-50. 04/22：モデル推定を行わないRMDP2[Paper_RMDP_wo_model_estimation.ipynb](Paper_RMDP_wo_model_estimation.ipynb)
+50. 04/23：モデル推定を行わないRMDP2[Paper_RMDP_wo_model_estimation.ipynb](Paper_RMDP_wo_model_estimation.ipynb)
