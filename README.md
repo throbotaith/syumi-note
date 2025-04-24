@@ -47,6 +47,7 @@
 - DRO理論本 第2章(導入、不確実性集合)：[DRO_Chapter_2_uncertainty_sets.ipynb](DRO_Chapter_2_uncertainty_sets.ipynb)
 - DRO理論本 第3章(不確実性集合のトポロジー性質)：[DRO_Chapter_3_topology_of_uncertainty_sets.ipynb](DRO_Chapter_3_topology_of_uncertainty_sets.ipynb)
 - DRO理論本 第4章(DROと双対問題)：[DRO_Chapter4_dual_theory_in_DRO.ipynb](DRO_Chapter4_dual_theory_in_DRO.ipynb)
+- DRO理論本 第4章(最悪ケースDROと双対問題)：[DRO_Chapter_5_dual_theory_in_Risk_DRO.ipynb](DRO_Chapter_5_dual_theory_in_Risk_DRO.ipynb)
 
 ---
 
@@ -135,3 +136,4 @@
 48. 04/21：ETCアルゴリズム[Bandit_ETC.ipynb](Bandit_ETC.ipynb)
 49. 04/22：凸関数の基礎4(双対問題)
 50. 04/23：モデル推定を行わないRMDP2[Paper_RMDP_wo_model_estimation.ipynb](Paper_RMDP_wo_model_estimation.ipynb)
+51. 04/24：最悪ケースリスク問題における双対理論(DRO5章)1[DRO_Chapter_5_dual_theory_in_Risk_DRO.ipynb](DRO_Chapter_5_dual_theory_in_Risk_DRO.ipynb)
