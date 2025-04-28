@@ -140,3 +140,4 @@
 52. 04/25：最悪ケースリスク問題における双対理論(DRO5章)2
 53. 04/26：凸解析の基礎3(局所解と大域的最適解)[Non_Linear_optimization_chapter3.ipynb](Non_Linear_optimization_chapter3.ipynb)
 54. 04/27：凸解析の基礎3接錐と法線錐を用いた最適解の必要条件[Non_Linear_optimization_chapter3.ipynb](Non_Linear_optimization_chapter3.ipynb)
+55. 04/28：凸解析の基礎3最適性の条件
