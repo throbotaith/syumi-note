@@ -138,6 +138,7 @@
 50. 04/23：モデル推定を行わないRMDP2[Paper_RMDP_wo_model_estimation.ipynb](Paper_RMDP_wo_model_estimation.ipynb)
 51. 04/24：最悪ケースリスク問題における双対理論(DRO5章)1[DRO_Chapter_5_dual_theory_in_Risk_DRO.ipynb](DRO_Chapter_5_dual_theory_in_Risk_DRO.ipynb)
 52. 04/25：最悪ケースリスク問題における双対理論(DRO5章)2
-53. 04/26：凸解析の基礎3(局所解と大域的最適解)[Non_Linear_optimization_chapter3.ipynb](Non_Linear_optimization_chapter3.ipynb)
-54. 04/27：凸解析の基礎3接錐と法線錐を用いた最適解の必要条件[Non_Linear_optimization_chapter3.ipynb](Non_Linear_optimization_chapter3.ipynb)
-55. 04/28：凸解析の基礎3最適性の条件
+53. 04/26：凸解析の基礎3(局所解と大域的最適解)[Non_Linear_optimization_chapter3_part1.ipynb](Non_Linear_optimization_chapter3_part1.ipynb)
+54. 04/27：凸解析の基礎3接錐と法線錐を用いた最適解の必要条件[Non_Linear_optimization_chapter3_part1.ipynb](Non_Linear_optimization_chapter3_part1.ipynb)
+55. 04/28：凸解析の基礎3最適性条件1
+56. 04/29：凸解析の基礎3最適性条件2[Non_Linear_optimization_chapter3_part2.ipynb](Non_Linear_optimization_chapter3_part2.ipynb)
