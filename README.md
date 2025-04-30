@@ -47,7 +47,8 @@
 - DRO理論本 第2章(導入、不確実性集合)：[DRO_Chapter_2_uncertainty_sets.ipynb](DRO_Chapter_2_uncertainty_sets.ipynb)
 - DRO理論本 第3章(不確実性集合のトポロジー性質)：[DRO_Chapter_3_topology_of_uncertainty_sets.ipynb](DRO_Chapter_3_topology_of_uncertainty_sets.ipynb)
 - DRO理論本 第4章(DROと双対問題)：[DRO_Chapter4_dual_theory_in_DRO.ipynb](DRO_Chapter4_dual_theory_in_DRO.ipynb)
-- DRO理論本 第4章(最悪ケースDROと双対問題)：[DRO_Chapter_5_dual_theory_in_Risk_DRO.ipynb](DRO_Chapter_5_dual_theory_in_Risk_DRO.ipynb)
+- DRO理論本 第5章(最悪ケースDROと双対問題)：[DRO_Chapter_5_dual_theory_in_Risk_DRO.ipynb](DRO_Chapter_5_dual_theory_in_Risk_DRO.ipynb)
+- DRO理論本 第6章(Nature’s Subproblemの解析解)：[DRO_Chapter_6_analytical _solutions_of_subproblem.ipynb](DRO_Chapter_6_analytical _solutions_of_subproblem.ipynb)
 
 ---
 
@@ -60,7 +61,8 @@
 - Chapter 1 + 可視化：[Non_Linear_optimization_chapter1_and_visualization.ipynb](Non_Linear_optimization_chapter1_and_visualization.ipynb)
 - Chapter 2_part1(超平面、分離超平面、支持超平面、凸集合、陰関数定理など)：[Non_Linear_optimization_chapter2_part1.ipynb](Non_Linear_optimization_chapter2_part1.ipynb)
 - Chapter 2_part2(凸関数、共役関数、劣勾配など)：[Non_Linear_optimization_chapter2_part2.ipynb](Non_Linear_optimization_chapter2_part2.ipynb)
-- Chapter 3(最適性条件)：[Non_Linear_optimization_chapter3.ipynb](Non_Linear_optimization_chapter3.ipynb)
+- Chapter 3(最適解)：[Non_Linear_optimization_chapter3_part1.ipynb](Non_Linear_optimization_chapter3_part1.ipynb)
+- Chapter 3(最適性条件)：[Non_Linear_optimization_chapter3_part2.ipynb](Non_Linear_optimization_chapter3_part2.ipynb)
 ---
 
 ### 機械学習のための数理解析
@@ -142,3 +144,4 @@
 54. 04/27：凸解析の基礎3接錐と法線錐を用いた最適解の必要条件[Non_Linear_optimization_chapter3_part1.ipynb](Non_Linear_optimization_chapter3_part1.ipynb)
 55. 04/28：凸解析の基礎3最適性条件1
 56. 04/29：凸解析の基礎3最適性条件2[Non_Linear_optimization_chapter3_part2.ipynb](Non_Linear_optimization_chapter3_part2.ipynb)
+57. 04/30：Nature’s Subproblemの解析解[DRO_Chapter_6_analytical _solutions_of_subproblem.ipynb](DRO_Chapter_6_analytical _solutions_of_subproblem.ipynb)
