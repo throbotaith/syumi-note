@@ -48,7 +48,7 @@
 - DRO理論本 第3章(不確実性集合のトポロジー性質)：[DRO_Chapter_3_topology_of_uncertainty_sets.ipynb](DRO_Chapter_3_topology_of_uncertainty_sets.ipynb)
 - DRO理論本 第4章(DROと双対問題)：[DRO_Chapter4_dual_theory_in_DRO.ipynb](DRO_Chapter4_dual_theory_in_DRO.ipynb)
 - DRO理論本 第5章(最悪ケースDROと双対問題)：[DRO_Chapter_5_dual_theory_in_Risk_DRO.ipynb](DRO_Chapter_5_dual_theory_in_Risk_DRO.ipynb)
-- DRO理論本 第6章(Nature’s Subproblemの解析解)：[DRO_Chapter_6_analytical _solutions_of_subproblem.ipynb](DRO_Chapter_6_analytical _solutions_of_subproblem.ipynb)
+- DRO理論本 第6章(Nature’s Subproblemの解析解)：[DRO_Chapter_6_analytical_solutions_of_subproblem.ipynb](DRO_Chapter_6_analytical_solutions_of_subproblem.ipynb)
 
 ---
 
