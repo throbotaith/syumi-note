@@ -4,7 +4,7 @@
 
 ### 強化学習
 
-#### Reinforcement Learning : Theory and Algorithms（通称：Sutton本やRL Theorybook）
+#### Reinforcement Learning : Theory and Algorithms
 - 第1章（線形計画）：[RL_Theorybook_Chapter_1_LP.ipynb](RL_Theorybook_Chapter_1_LP.ipynb)
 - 第1章：[RL_Theorybook_Chapter_1.ipynb](RL_Theorybook_Chapter_1.ipynb)
 - 第2章：[RL_Theorybook_Chapter_2.ipynb](RL_Theorybook_Chapter_2.ipynb)
