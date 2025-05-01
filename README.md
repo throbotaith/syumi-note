@@ -145,3 +145,4 @@
 55. 04/28：凸解析の基礎3最適性条件1
 56. 04/29：凸解析の基礎3最適性条件2[Non_Linear_optimization_chapter3_part2.ipynb](Non_Linear_optimization_chapter3_part2.ipynb)
 57. 04/30：Nature’s Subproblemの解析解[DRO_Chapter_6_analytical_solutions_of_subproblem.ipynb](DRO_Chapter_6_analytical_solutions_of_subproblem.ipynb)
+58. 05/01：凸解析の基礎3最適性条件3
