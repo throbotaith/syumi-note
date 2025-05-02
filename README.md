@@ -1,10 +1,10 @@
 # syumi-note
 勉強ノートですので正確とは限りません．途中の物もいくつかあります．
-## 分野別のNotebook一覧
+# 分野別のNotebook一覧
 
-### 強化学習
+## 強化学習
 
-#### Reinforcement Learning : Theory and Algorithms
+### Reinforcement Learning : Theory and Algorithms
 - 第1章（線形計画）：[RL_Theorybook_Chapter_1_LP.ipynb](RL_Theorybook_Chapter_1_LP.ipynb)
 - 第1章：[RL_Theorybook_Chapter_1.ipynb](RL_Theorybook_Chapter_1.ipynb)
 - 第2章：[RL_Theorybook_Chapter_2.ipynb](RL_Theorybook_Chapter_2.ipynb)
@@ -15,27 +15,23 @@
 - 第14章（Conservative Policy Iteration）：[RL_Theorybook_Chapter_14_CPI.ipynb](RL_Theorybook_Chapter_14_CPI.ipynb)
 - 第14章（Trust Region Policy Optimization(and PPO)）：[RL_Theorybook_Chapter_14_TRPO_PPO.ipynb](RL_Theorybook_Chapter_14_TRPO_PPO.ipynb)
 
-
-
-#### ロバストMDP（RMDP）
+### ロバストMDP（RMDP）
 - RMDP理論論文の証明：[Paper_RMDP_thoery.ipynb](Paper_RMDP_thoery.ipynb)
 - RMDPの基礎から方策勾配法まで（メモ）：[RMDP_foundations.ipynb](RMDP_foundations.ipynb)
 - RDPにおける動的計画法のPythonコード：[Paper_RDP_implement.ipynb](Paper_RDP_implement.ipynb)
 - RMDPにおける方策勾配法の大域的最適性証明：[RMDP_PG_global_optimality.ipynb](RMDP_PG_global_optimality.ipynb)
 - モデル推定を行わないRMDP：[Paper_RMDP_wo_model_estimation.ipynb](Paper_RMDP_wo_model_estimation.ipynb)
 - Generative modelsを用いたロバスト強化学習のサンプル複雑度： [Paper_Sample_Complexity_of_RMDP.ipynb](Paper_Sample_Complexity_of_RMDP.ipynb)
----
 
-#### バンディット問題
+### バンディット問題
 - ETCアルゴリズム：[Bandit_ETC.ipynb](Bandit_ETC.ipynb)
 
-
-#### 制約付きMDP（CMDP）
+### 制約付きMDP（CMDP）
 
 - Altman本 第3章：[CMDP_Altman_Chapter_3.ipynb](CMDP_Altman_Chapter_3.ipynb)
 - RCMDPのサブルーチン：[RCMDP_subrountine.ipynb](RCMDP_subrountine.ipynb)
----
-#### 強化学習と関連論文
+
+### 強化学習と関連論文
 - モデルフリーRLの復習：[RL_Model_Free.ipynb](RL_Model_Free.ipynb)
 - sim2real：[RL_sim2real.ipynb](RL_sim2real.ipynb)
 - 確率的方策勾配法：[RL_Stochastic_Policy_Gradient.ipynb](RL_Stochastic_Policy_Gradient.ipynb)
@@ -47,11 +43,9 @@
 - モーメンタムはSGDを改善させる：[Paper_Momentum_improves_SGD.ipynb](Paper_Momentum_improves_SGD.ipynb)
 - 価値関数ポリトープ：[Paper_Geometory_of_Value_Function.ipynb](Paper_Geometory_of_Value_Function.ipynb)
 - ロバスト価値関数ポリトープ[Paper_Geometory_of_Robust_Value_Function.ipynb](Paper_Geometory_of_Robust_Value_Function.ipynb)
-
 ---
 
-### 分布ロバスト最適化（DRO）
-
+## 分布ロバスト最適化（DRO）
 - DRO理論本 第1,2章(導入、不確実性集合)：[DRO_Chapter_2_uncertainty_sets.ipynb](DRO_Chapter_2_uncertainty_sets.ipynb)
 - DRO理論本 第3章(不確実性集合のトポロジー性質)：[DRO_Chapter_3_topology_of_uncertainty_sets.ipynb](DRO_Chapter_3_topology_of_uncertainty_sets.ipynb)
 - DRO理論本 第4章(DROと双対問題)：[DRO_Chapter4_dual_theory_in_DRO.ipynb](DRO_Chapter4_dual_theory_in_DRO.ipynb)
@@ -60,12 +54,12 @@
 
 ---
 
-### 凸最適化と非線形最適化
+## 凸最適化と非線形最適化
 
-#### First-order Methods in Optimization（Beck）
+### First-order Methods in Optimization（Beck）
 - 第4章（L-smooth & Strong Convex）：[Beck_gradient_Chapter_4_L-smooth_strong_convex.ipynb](Beck_gradient_Chapter_4_L-smooth_strong_convex.ipynb)
 
-#### 非線形最適化の基礎(福島先生の本(*一般的な定理のまとめのみ))
+### 非線形最適化の基礎(福島先生の本(*一般的な定理のまとめのみ))
 - Chapter 1 + 可視化：[Non_Linear_optimization_chapter1_and_visualization.ipynb](Non_Linear_optimization_chapter1_and_visualization.ipynb)
 - Chapter 2_part1(超平面、分離超平面、支持超平面、凸集合、陰関数定理など)：[Non_Linear_optimization_chapter2_part1.ipynb](Non_Linear_optimization_chapter2_part1.ipynb)
 - Chapter 2_part2(凸関数、共役関数、劣勾配など)：[Non_Linear_optimization_chapter2_part2.ipynb](Non_Linear_optimization_chapter2_part2.ipynb)
@@ -73,14 +67,15 @@
 - Chapter 3(最適性条件)：[Non_Linear_optimization_chapter3_part2.ipynb](Non_Linear_optimization_chapter3_part2.ipynb)
 ---
 
-### 機械学習のための数理解析
+## 機械学習のための数理解析
 - 確率不等式大全:[Math_Probability_Inequalities.ipynb](Math_Probability_Inequalities.ipynb)
 - 一様収束と汎化解析(途中)：[Math_Uniform_Convergence.ipynb](Math_Uniform_Convergence.ipynb)
 ---
-### その他
+
+## その他
 - 拡散モデルの理論：[Theory_of_diffusion_model.ipynb](Theory_of_diffusion_model.ipynb)
 - RL用ユーティリティ：[RL_utils.ipynb](RL_utils.ipynb)
-
+---
 
 
 ## 日付順のNotebook一覧
