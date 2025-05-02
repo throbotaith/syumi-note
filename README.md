@@ -30,6 +30,7 @@
 - RDPにおける動的計画法のPythonコード：[Paper_RDP_implement.ipynb](Paper_RDP_implement.ipynb)
 - RMDPにおける方策勾配法の大域的最適性証明：[RMDP_PG_global_optimality.ipynb](RMDP_PG_global_optimality.ipynb)
 - モデル推定を行わないRMDP：[Paper_RMDP_wo_model_estimation.ipynb](Paper_RMDP_wo_model_estimation.ipynb)
+-　Generative modelsを用いたロバスト強化学習のサンプル複雑度： [Paper_Sample_Complexity_of_RMDP.ipynb](Paper_Sample_Complexity_of_RMDP.ipynb)
 ---
 
 #### バンディット問題
@@ -146,3 +147,4 @@
 56. 04/29：凸解析の基礎3最適性条件2[Non_Linear_optimization_chapter3_part2.ipynb](Non_Linear_optimization_chapter3_part2.ipynb)
 57. 04/30：Nature’s Subproblemの解析解[DRO_Chapter_6_analytical_solutions_of_subproblem.ipynb](DRO_Chapter_6_analytical_solutions_of_subproblem.ipynb)
 58. 05/01：凸解析の基礎3最適性条件3
+59. 05/02：Generative modelsを用いたロバスト強化学習のサンプル複雑度： [Paper_Sample_Complexity_of_RMDP.ipynb](Paper_Sample_Complexity_of_RMDP.ipynb)
