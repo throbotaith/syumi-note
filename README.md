@@ -30,7 +30,7 @@
 - RDPにおける動的計画法のPythonコード：[Paper_RDP_implement.ipynb](Paper_RDP_implement.ipynb)
 - RMDPにおける方策勾配法の大域的最適性証明：[RMDP_PG_global_optimality.ipynb](RMDP_PG_global_optimality.ipynb)
 - モデル推定を行わないRMDP：[Paper_RMDP_wo_model_estimation.ipynb](Paper_RMDP_wo_model_estimation.ipynb)
--　Generative modelsを用いたロバスト強化学習のサンプル複雑度： [Paper_Sample_Complexity_of_RMDP.ipynb](Paper_Sample_Complexity_of_RMDP.ipynb)
+- Generative modelsを用いたロバスト強化学習のサンプル複雑度： [Paper_Sample_Complexity_of_RMDP.ipynb](Paper_Sample_Complexity_of_RMDP.ipynb)
 ---
 
 #### バンディット問題
