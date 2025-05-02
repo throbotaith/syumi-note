@@ -15,14 +15,7 @@
 - 第14章（Conservative Policy Iteration）：[RL_Theorybook_Chapter_14_CPI.ipynb](RL_Theorybook_Chapter_14_CPI.ipynb)
 - 第14章（Trust Region Policy Optimization(and PPO)）：[RL_Theorybook_Chapter_14_TRPO_PPO.ipynb](RL_Theorybook_Chapter_14_TRPO_PPO.ipynb)
 
-#### その他のRL関連
-- モデルフリーRLの復習：[RL_Model_Free.ipynb](RL_Model_Free.ipynb)
-- sim2real：[RL_sim2real.ipynb](RL_sim2real.ipynb)
-- 確率的方策勾配法：[RL_Stochastic_Policy_Gradient.ipynb](RL_Stochastic_Policy_Gradient.ipynb)
-- 方策勾配法の理論：[RL_Theory of Policy Gradient.ipynb](RL_Theory of Policy Gradient.ipynb)
-- 有限MDP理論（Puterman）：[MDP_Puterman_Infinite_Horizon.ipynb](MDP_Puterman_Infinite_Horizon.ipynb)
-- Q学習の収束性証明：[RL_Q_Learning_proof_convergence.ipynb](RL_Q_Learning_proof_convergence.ipynb)
----
+
 
 #### ロバストMDP（RMDP）
 - RMDP理論論文の証明：[Paper_RMDP_thoery.ipynb](Paper_RMDP_thoery.ipynb)
@@ -37,15 +30,29 @@
 - ETCアルゴリズム：[Bandit_ETC.ipynb](Bandit_ETC.ipynb)
 
 
-### CMDP（制約付きMDP）
+#### 制約付きMDP（CMDP）
 
 - Altman本 第3章：[CMDP_Altman_Chapter_3.ipynb](CMDP_Altman_Chapter_3.ipynb)
 - RCMDPのサブルーチン：[RCMDP_subrountine.ipynb](RCMDP_subrountine.ipynb)
 ---
+#### 強化学習と関連論文
+- モデルフリーRLの復習：[RL_Model_Free.ipynb](RL_Model_Free.ipynb)
+- sim2real：[RL_sim2real.ipynb](RL_sim2real.ipynb)
+- 確率的方策勾配法：[RL_Stochastic_Policy_Gradient.ipynb](RL_Stochastic_Policy_Gradient.ipynb)
+- 方策勾配法の理論：[RL_Theory of Policy Gradient.ipynb](RL_Theory of Policy Gradient.ipynb)
+- 有限MDP理論（Puterman）：[MDP_Puterman_Infinite_Horizon.ipynb](MDP_Puterman_Infinite_Horizon.ipynb)
+- Q学習の収束性証明：[RL_Q_Learning_proof_convergence.ipynb](RL_Q_Learning_proof_convergence.ipynb)
+- シミュレーション補題に関する考察：[Paper_Simulation_Lemma.ipynb](Paper_Simulation_Lemma.ipynb)
+- Simplex法によるMDP解法：[Paper_Simplex_MDP.ipynb](Paper_Simplex_MDP.ipynb)
+- モーメンタムはSGDを改善させる：[Paper_Momentum_improves_SGD.ipynb](Paper_Momentum_improves_SGD.ipynb)
+- 価値関数ポリトープ：[Paper_Geometory_of_Value_Function.ipynb](Paper_Geometory_of_Value_Function.ipynb)
+- ロバスト価値関数ポリトープ[Paper_Geometory_of_Robust_Value_Function.ipynb](Paper_Geometory_of_Robust_Value_Function.ipynb)
+
+---
 
 ### 分布ロバスト最適化（DRO）
 
-- DRO理論本 第2章(導入、不確実性集合)：[DRO_Chapter_2_uncertainty_sets.ipynb](DRO_Chapter_2_uncertainty_sets.ipynb)
+- DRO理論本 第1,2章(導入、不確実性集合)：[DRO_Chapter_2_uncertainty_sets.ipynb](DRO_Chapter_2_uncertainty_sets.ipynb)
 - DRO理論本 第3章(不確実性集合のトポロジー性質)：[DRO_Chapter_3_topology_of_uncertainty_sets.ipynb](DRO_Chapter_3_topology_of_uncertainty_sets.ipynb)
 - DRO理論本 第4章(DROと双対問題)：[DRO_Chapter4_dual_theory_in_DRO.ipynb](DRO_Chapter4_dual_theory_in_DRO.ipynb)
 - DRO理論本 第5章(最悪ケースDROと双対問題)：[DRO_Chapter_5_dual_theory_in_Risk_DRO.ipynb](DRO_Chapter_5_dual_theory_in_Risk_DRO.ipynb)
@@ -69,19 +76,8 @@
 ### 機械学習のための数理解析
 - 確率不等式大全:[Math_Probability_Inequalities.ipynb](Math_Probability_Inequalities.ipynb)
 - 一様収束と汎化解析(途中)：[Math_Uniform_Convergence.ipynb](Math_Uniform_Convergence.ipynb)
-
-
-
-### 論文読み
-- シミュレーション補題に関する考察：[Paper_Simulation_Lemma.ipynb](Paper_Simulation_Lemma.ipynb)
-- Simplex法によるMDP解法：[Paper_Simplex_MDP.ipynb](Paper_Simplex_MDP.ipynb)
-- モーメンタムはSGDを改善させる：[Paper_Momentum_improves_SGD.ipynb](Paper_Momentum_improves_SGD.ipynb)
-- 価値関数ポリトープ：[Paper_Geometory_of_Value_Function.ipynb](Paper_Geometory_of_Value_Function.ipynb)
-- ロバスト価値関数ポリトープ[Paper_Geometory_of_Robust_Value_Function.ipynb](Paper_Geometory_of_Robust_Value_Function.ipynb)
-
+---
 ### その他
-
-
 - 拡散モデルの理論：[Theory_of_diffusion_model.ipynb](Theory_of_diffusion_model.ipynb)
 - RL用ユーティリティ：[RL_utils.ipynb](RL_utils.ipynb)
 
