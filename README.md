@@ -139,4 +139,4 @@
 57. 04/30：Nature’s Subproblemの解析解[DRO_Chapter_6_analytical_solutions_of_subproblem.ipynb](DRO_Chapter_6_analytical_solutions_of_subproblem.ipynb)
 58. 05/01：凸解析の基礎3最適性条件3
 59. 05/02：Generative modelsを用いたロバスト強化学習のサンプル複雑度： [Paper_Sample_Complexity_of_RMDP.ipynb](Paper_Sample_Complexity_of_RMDP.ipynb)
-60. 05/02：ユニオンバウンドを用いた証明(Generative modelsを用いたロバスト強化学習のサンプル複雑度)： [Paper_Sample_Complexity_of_RMDP.ipynb](Paper_Sample_Complexity_of_RMDP.ipynb)
+60. 05/03：ユニオンバウンドを用いた証明(Generative modelsを用いたロバスト強化学習のサンプル複雑度)： [Paper_Sample_Complexity_of_RMDP.ipynb](Paper_Sample_Complexity_of_RMDP.ipynb)
