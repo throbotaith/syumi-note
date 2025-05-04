@@ -51,6 +51,7 @@
 - DRO理論本 第4章(DROと双対問題)：[DRO_Chapter4_dual_theory_in_DRO.ipynb](DRO_Chapter4_dual_theory_in_DRO.ipynb)
 - DRO理論本 第5章(最悪ケースDROと双対問題)：[DRO_Chapter_5_dual_theory_in_Risk_DRO.ipynb](DRO_Chapter_5_dual_theory_in_Risk_DRO.ipynb)
 - DRO理論本 第6章(Nature’s Subproblemの解析解)：[DRO_Chapter_6_analytical_solutions_of_subproblem.ipynb](DRO_Chapter_6_analytical_solutions_of_subproblem.ipynb)
+- DRO理論本 第8章(ロバスト化による正則化)：[DRO_Chapter_8_regularization_by_robustification.ipynb](DRO_Chapter_8_regularization_by_robustification.ipynb)
 
 ---
 
@@ -139,4 +140,5 @@
 57. 04/30：Nature’s Subproblemの解析解[DRO_Chapter_6_analytical_solutions_of_subproblem.ipynb](DRO_Chapter_6_analytical_solutions_of_subproblem.ipynb)
 58. 05/01：凸解析の基礎3最適性条件3
 59. 05/02：Generative modelsを用いたロバスト強化学習のサンプル複雑度： [Paper_Sample_Complexity_of_RMDP.ipynb](Paper_Sample_Complexity_of_RMDP.ipynb)
-60. 05/03：ユニオンバウンドを用いた証明(Generative modelsを用いたロバスト強化学習のサンプル複雑度)： [Paper_Sample_Complexity_of_RMDP.ipynb](Paper_Sample_Complexity_of_RMDP.ipynb)
+60. 05/03：ユニオンバウンドを用いた証明(Generative modelsを用いたロバスト強化学習のサンプル複雑度)：[Paper_Sample_Complexity_of_RMDP.ipynb](Paper_Sample_Complexity_of_RMDP.ipynb)
+61. 05/04：ロバスト化による正則化(DRO8章)：[DRO_Chapter_8_regularization_by_robustification.ipynb](DRO_Chapter_8_regularization_by_robustification.ipynb)
