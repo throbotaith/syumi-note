@@ -25,6 +25,7 @@
 
 ### バンディット問題
 - ETCアルゴリズム：[Bandit_ETC.ipynb](Bandit_ETC.ipynb)
+- インスタンス依存の下界：[Bandit_Instance-Dependent_Lower_Bounds.ipynb](Bandit_Instance-Dependent_Lower_Bounds.ipynb)
 
 ### 制約付きMDP（CMDP）
 
@@ -142,3 +143,4 @@
 59. 05/02：Generative modelsを用いたロバスト強化学習のサンプル複雑度： [Paper_Sample_Complexity_of_RMDP.ipynb](Paper_Sample_Complexity_of_RMDP.ipynb)
 60. 05/03：ユニオンバウンドを用いた証明(Generative modelsを用いたロバスト強化学習のサンプル複雑度)：[Paper_Sample_Complexity_of_RMDP.ipynb](Paper_Sample_Complexity_of_RMDP.ipynb)
 61. 05/04：ロバスト化による正則化(DRO8章)：[DRO_Chapter_8_regularization_by_robustification.ipynb](DRO_Chapter_8_regularization_by_robustification.ipynb)
+62. 05/05：バンディット問題，インスタンス依存の下界：[Bandit_Instance-Dependent_Lower_Bounds.ipynb](Bandit_Instance-Dependent_Lower_Bounds.ipynb)
