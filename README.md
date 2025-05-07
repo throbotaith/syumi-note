@@ -70,6 +70,10 @@
 - Chapter 3(最適性条件)：[Non_Linear_optimization_chapter3_part2.ipynb](Non_Linear_optimization_chapter3_part2.ipynb)
 ---
 
+### 確率的最適化
+- 確率的勾配降下法：[Stochastic_Optimization_SGD.ipynb](Stochastic_Optimization_SGD.ipynb)
+
+
 ## 機械学習のための数理解析
 - 確率不等式大全:[Math_Probability_Inequalities.ipynb](Math_Probability_Inequalities.ipynb)
 - 一様収束と汎化解析(途中)：[Math_Uniform_Convergence.ipynb](Math_Uniform_Convergence.ipynb)
@@ -146,3 +150,4 @@
 61. 05/04：ロバスト化による正則化(DRO8章)：[DRO_Chapter_8_regularization_by_robustification.ipynb](DRO_Chapter_8_regularization_by_robustification.ipynb)
 62. 05/05：バンディット問題，インスタンス依存の下界：[Bandit_Instance-Dependent_Lower_Bounds.ipynb](Bandit_Instance-Dependent_Lower_Bounds.ipynb)
 63. 05/06：バンディット問題，UCBの上界の証明：[Bandit_UCB.ipynb](Bandit_UCB.ipynb)
+64. 05/07：確率的最適化，確率的勾配降下法：[Stochastic_Optimization_SGD.ipynb](Stochastic_Optimization_SGD.ipynb)
