@@ -151,5 +151,6 @@
 61. 05/04：ロバスト化による正則化(DRO8章)：[DRO_Chapter_8_regularization_by_robustification.ipynb](DRO_Chapter_8_regularization_by_robustification.ipynb)
 62. 05/05：バンディット問題，インスタンス依存の下界：[Bandit_Instance-Dependent_Lower_Bounds.ipynb](Bandit_Instance-Dependent_Lower_Bounds.ipynb)
 63. 05/06：バンディット問題，UCBの上界の証明：[Bandit_UCB.ipynb](Bandit_UCB.ipynb)
-64. 05/07：確率的最適化，確率的勾配降下法：[Stochastic_Optimization_SGD.ipynb](Stochastic_Optimization_SGD.ipynb)
+64. 05/07：確率的最適化，確率的勾配降下法(SGD)：[Stochastic_Optimization_SGD.ipynb](Stochastic_Optimization_SGD.ipynb)
 65. 05/08：被覆とVC理論：[Math_VC_theory.ipynb](Math_VC_theory.ipynb)
+66. 05/09：確率的最適化，近接勾配法とSGDの収束レート：[Stochastic_Optimization_SGD.ipynb](Stochastic_Optimization_SGD.ipynb)
