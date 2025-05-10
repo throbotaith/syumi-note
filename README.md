@@ -154,3 +154,4 @@
 64. 05/07：確率的最適化，確率的勾配降下法(SGD)：[Stochastic_Optimization_SGD.ipynb](Stochastic_Optimization_SGD.ipynb)
 65. 05/08：被覆とVC理論：[Math_VC_theory.ipynb](Math_VC_theory.ipynb)
 66. 05/09：確率的最適化，近接勾配法とSGDの収束レート：[Stochastic_Optimization_SGD.ipynb](Stochastic_Optimization_SGD.ipynb)
+67. 05/10：確率的最適化，鏡像降下法：[Stochastic_Optimization_SGD.ipynb](Stochastic_Optimization_SGD.ipynb)
