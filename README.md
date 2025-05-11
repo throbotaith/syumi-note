@@ -155,3 +155,4 @@
 65. 05/08：被覆とVC理論：[Math_VC_theory.ipynb](Math_VC_theory.ipynb)
 66. 05/09：確率的最適化，近接勾配法とSGDの収束レート：[Stochastic_Optimization_SGD.ipynb](Stochastic_Optimization_SGD.ipynb)
 67. 05/10：確率的最適化，鏡像降下法：[Stochastic_Optimization_SGD.ipynb](Stochastic_Optimization_SGD.ipynb)
+68. 05/11：バンディット問題，ミニマックスリグレット(ちょっと時間なかったので後日改修)：[Bandit_minimux.ipynb](Bandit_minimux.ipynb)
