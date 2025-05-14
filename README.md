@@ -72,6 +72,7 @@
 
 ### 確率的最適化
 - 確率的勾配降下法：[Stochastic_Optimization_SGD.ipynb](Stochastic_Optimization_SGD.ipynb)
+- 弱凸関数の確率的モデルベース最小化：[Paper_weak_convex_proj_grad.ipynb](Paper_weak_convex_proj_grad.ipynb)
 
 
 ## 機械学習のための数理解析
@@ -158,3 +159,4 @@
 68. 05/11：バンディット問題，ミニマックスリグレット(ちょっと時間なかったので後日改修)：[Bandit_minimux.ipynb](Bandit_minimux.ipynb)
 69. 05/12：モデル推定を行わないRMDP，制約付きDRO双対形式導出など[Paper_RMDP_wo_model_estimation.ipynb](Paper_RMDP_wo_model_estimation.ipynb)
 70. 05/13：弱凸関数の確率的モデルベース最小化
+71. 05/14：弱凸関数の確率的モデルベース最小化，確率的射影勾配法の収束性証明[Paper_weak_convex_proj_grad.ipynb](Paper_weak_convex_proj_grad.ipynb)
