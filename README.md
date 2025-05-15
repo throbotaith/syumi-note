@@ -161,3 +161,4 @@
 70. 05/13：弱凸関数の確率的モデルベース最小化
 71. 05/14：弱凸関数の確率的モデルベース最小化，確率的射影勾配法の収束性証明：[Paper_weak_convex_proj_grad.ipynb](Paper_weak_convex_proj_grad.ipynb)
 72. 05/15：ロバスト目的関数は弱凸であることの証明：[RMDP_PG_global_optimality.ipynb](RMDP_PG_global_optimality.ipynb)
+73. 
