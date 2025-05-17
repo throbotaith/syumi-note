@@ -162,3 +162,4 @@
 71. 05/14：弱凸関数の確率的モデルベース最小化，確率的射影勾配法の収束性証明：[Paper_weak_convex_proj_grad.ipynb](Paper_weak_convex_proj_grad.ipynb)
 72. 05/15：ロバスト目的関数は弱凸であることの証明：[RMDP_PG_global_optimality.ipynb](RMDP_PG_global_optimality.ipynb)
 73. 05/16：確率的二分探索
+74. 05/17：確率的二分探索，命題4.2の証明：[Paper_PBA.ipynb](Paper_PBA.ipynb)
