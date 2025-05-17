@@ -84,6 +84,7 @@
 ## その他
 - 拡散モデルの理論：[Theory_of_diffusion_model.ipynb](Theory_of_diffusion_model.ipynb)
 - RL用ユーティリティ：[RL_utils.ipynb](RL_utils.ipynb)
+- 確率的二分探索：[Paper_PBA.ipynb](Paper_PBA.ipynb)
 ---
 
 
