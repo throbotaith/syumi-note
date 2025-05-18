@@ -165,4 +165,4 @@
 72. 05/15：ロバスト目的関数は弱凸であることの証明：[RMDP_PG_global_optimality.ipynb](RMDP_PG_global_optimality.ipynb)
 73. 05/16：確率的二分探索
 74. 05/17：確率的二分探索，命題4.2の証明：[Paper_PBA.ipynb](Paper_PBA.ipynb)
-75. 確率的最適化，鏡像降下法：[Stochastic_Optimization_SMD.ipynb](Stochastic_Optimization_SMD.ipynb)
+75. 05/18：確率的最適化，鏡像降下法：[Stochastic_Optimization_SMD.ipynb](Stochastic_Optimization_SMD.ipynb)
