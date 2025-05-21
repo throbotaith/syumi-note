@@ -169,3 +169,4 @@
 75. 05/18：確率的最適化，鏡像降下法：[Stochastic_Optimization_SMD.ipynb](Stochastic_Optimization_SMD.ipynb)
 76. 05/19：RL理論本第5章，オッカムのカミソリバウンド：[RL_Theorybook_Chapter_5.ipynb](RL_Theorybook_Chapter_5.ipynb)
 77. 05/20：sim2real paper3
+78. 05/21：RL理論本第5章，Linear realizability：[RL_Theorybook_Chapter_5.ipynb](RL_Theorybook_Chapter_5.ipynb)
