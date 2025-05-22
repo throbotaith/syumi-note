@@ -23,6 +23,7 @@
 - RMDPにおける方策勾配法の大域的最適性証明：[RMDP_PG_global_optimality.ipynb](RMDP_PG_global_optimality.ipynb)
 - モデル推定を行わないRMDP：[Paper_RMDP_wo_model_estimation.ipynb](Paper_RMDP_wo_model_estimation.ipynb)
 - Generative modelsを用いたロバスト強化学習のサンプル複雑度： [Paper_Sample_Complexity_of_RMDP.ipynb](Paper_Sample_Complexity_of_RMDP.ipynb)
+- ロバスト制約つきMDP，弱凸関数の勾配支配:[Paper_RCMDP_weak_conv_grad_dominance.ipynb](Paper_RCMDP_weak_conv_grad_dominance.ipynb)
 
 ### バンディット問題
 - ETCアルゴリズム：[Bandit_ETC.ipynb](Bandit_ETC.ipynb)
@@ -170,3 +171,4 @@
 76. 05/19：RL理論本第5章，オッカムのカミソリバウンド：[RL_Theorybook_Chapter_5.ipynb](RL_Theorybook_Chapter_5.ipynb)
 77. 05/20：sim2real paper3
 78. 05/21：RL理論本第5章，Linear realizability：[RL_Theorybook_Chapter_5.ipynb](RL_Theorybook_Chapter_5.ipynb)
+79. 05/22：ロバスト制約つきMDP，弱凸関数の勾配支配:[Paper_RCMDP_weak_conv_grad_dominance.ipynb](Paper_RCMDP_weak_conv_grad_dominance.ipynb)
