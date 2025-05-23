@@ -62,6 +62,7 @@
 ## 凸最適化と非線形最適化
 
 ### First-order Methods in Optimization（Beck）
+- 第3章（Subgradient）：[Beck_gradient_Chapter_3_subgradient.ipynb](Beck_gradient_Chapter_3_subgradient.ipynb)
 - 第4章（L-smooth & Strong Convex）：[Beck_gradient_Chapter_4_L-smooth_strong_convex.ipynb](Beck_gradient_Chapter_4_L-smooth_strong_convex.ipynb)
 
 ### 非線形最適化の基礎(福島先生の本(*一般的な定理のまとめのみ))
@@ -172,3 +173,4 @@
 77. 05/20：sim2real paper3
 78. 05/21：RL理論本第5章，Linear realizability：[RL_Theorybook_Chapter_5.ipynb](RL_Theorybook_Chapter_5.ipynb)
 79. 05/22：ロバスト制約つきMDP，弱凸関数の勾配支配:[Paper_RCMDP_weak_conv_grad_dominance.ipynb](Paper_RCMDP_weak_conv_grad_dominance.ipynb)
+80. 05/23：Beck本第3章（Subgradient）：[Beck_gradient_Chapter_3_subgradient.ipynb](Beck_gradient_Chapter_3_subgradient.ipynb)
