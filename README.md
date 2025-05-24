@@ -174,3 +174,4 @@
 78. 05/21：RL理論本第5章，Linear realizability：[RL_Theorybook_Chapter_5.ipynb](RL_Theorybook_Chapter_5.ipynb)
 79. 05/22：ロバスト制約つきMDP，弱凸関数の勾配支配:[Paper_RCMDP_weak_conv_grad_dominance.ipynb](Paper_RCMDP_weak_conv_grad_dominance.ipynb)
 80. 05/23：Beck本第3章（Subgradient）：[Beck_gradient_Chapter_3_subgradient.ipynb](Beck_gradient_Chapter_3_subgradient.ipynb)
+81. 05/24：制約付きロバストMDP：
