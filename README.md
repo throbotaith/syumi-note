@@ -24,6 +24,7 @@
 - モデル推定を行わないRMDP：[Paper_RMDP_wo_model_estimation.ipynb](Paper_RMDP_wo_model_estimation.ipynb)
 - Generative modelsを用いたロバスト強化学習のサンプル複雑度： [Paper_Sample_Complexity_of_RMDP.ipynb](Paper_Sample_Complexity_of_RMDP.ipynb)
 - ロバスト制約つきMDP，弱凸関数の勾配支配:[Paper_RCMDP_weak_conv_grad_dominance.ipynb](Paper_RCMDP_weak_conv_grad_dominance.ipynb)
+- RectangularロバストMDPにおける方策勾配[Paper_RMDP_rectangular_PG.ipynb](Paper_RMDP_rectangular_PG.ipynb)
 
 ### バンディット問題
 - ETCアルゴリズム：[Bandit_ETC.ipynb](Bandit_ETC.ipynb)
@@ -175,3 +176,4 @@
 79. 05/22：ロバスト制約つきMDP，弱凸関数の勾配支配:[Paper_RCMDP_weak_conv_grad_dominance.ipynb](Paper_RCMDP_weak_conv_grad_dominance.ipynb)
 80. 05/23：Beck本第3章（Subgradient）：[Beck_gradient_Chapter_3_subgradient.ipynb](Beck_gradient_Chapter_3_subgradient.ipynb)
 81. 05/24：制約付きロバストMDP：
+82. 05/25：RectangularロバストMDPにおける方策勾配[Paper_RMDP_rectangular_PG.ipynb](Paper_RMDP_rectangular_PG.ipynb)
