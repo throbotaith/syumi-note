@@ -177,3 +177,5 @@
 80. 05/23：Beck本第3章（Subgradient）：[Beck_gradient_Chapter_3_subgradient.ipynb](Beck_gradient_Chapter_3_subgradient.ipynb)
 81. 05/24：制約付きロバストMDP：
 82. 05/25：RectangularロバストMDPにおける方策勾配[Paper_RMDP_rectangular_PG.ipynb](Paper_RMDP_rectangular_PG.ipynb)
+83. 05/26：制約付きロバストMDP2:
+84. 05/27：確率的最適化，近接勾配法とSGDの収束レート2：[Stochastic_Optimization_SGD.ipynb](Stochastic_Optimization_SGD.ipynb)
