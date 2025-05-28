@@ -26,15 +26,19 @@
 - ロバスト制約つきMDP，弱凸関数の勾配支配:[Paper_RCMDP_weak_conv_grad_dominance.ipynb](Paper_RCMDP_weak_conv_grad_dominance.ipynb)
 - RectangularロバストMDPにおける方策勾配[Paper_RMDP_rectangular_PG.ipynb](Paper_RMDP_rectangular_PG.ipynb)
 
-### バンディット問題
-- ETCアルゴリズム：[Bandit_ETC.ipynb](Bandit_ETC.ipynb)
-- インスタンス依存の下界：[Bandit_Instance-Dependent_Lower_Bounds.ipynb](Bandit_Instance-Dependent_Lower_Bounds.ipynb)
-- UCBにおける上界の証明：[Bandit_UCB.ipynb](Bandit_UCB.ipynb)
-
 ### 制約付きMDP（CMDP）
 
 - Altman本 第3章：[CMDP_Altman_Chapter_3.ipynb](CMDP_Altman_Chapter_3.ipynb)
 - RCMDPのサブルーチン：[RCMDP_subrountine.ipynb](RCMDP_subrountine.ipynb)
+
+### ロバスト制約付きMDP（RCMDP）
+
+- EpiRC-PGS0の実装：[EpiRC-PGS.ipynb](EpiRC-PGS.ipynb)
+- 
+### バンディット問題
+- ETCアルゴリズム：[Bandit_ETC.ipynb](Bandit_ETC.ipynb)
+- インスタンス依存の下界：[Bandit_Instance-Dependent_Lower_Bounds.ipynb](Bandit_Instance-Dependent_Lower_Bounds.ipynb)
+- UCBにおける上界の証明：[Bandit_UCB.ipynb](Bandit_UCB.ipynb)
 
 ### 強化学習と関連論文
 - モデルフリーRLの復習：[RL_Model_Free.ipynb](RL_Model_Free.ipynb)
@@ -74,12 +78,12 @@
 - Chapter 3(最適性条件)：[Non_Linear_optimization_chapter3_part2.ipynb](Non_Linear_optimization_chapter3_part2.ipynb)
 ---
 
-### 確率的最適化
+## 確率的最適化
 - 確率的勾配降下法：[Stochastic_Optimization_SGD.ipynb](Stochastic_Optimization_SGD.ipynb)
 - 弱凸関数の確率的モデルベース最小化：[Paper_weak_convex_proj_grad.ipynb](Paper_weak_convex_proj_grad.ipynb)
 - 鏡像降下法：[Stochastic_Optimization_SMD.ipynb](Stochastic_Optimization_SMD.ipynb)
 
-
+---
 ## 機械学習のための数理解析
 - 確率不等式大全:[Math_Probability_Inequalities.ipynb](Math_Probability_Inequalities.ipynb)
 - 一様収束と汎化解析(途中)：[Math_Uniform_Convergence.ipynb](Math_Uniform_Convergence.ipynb)
@@ -179,3 +183,4 @@
 82. 05/25：RectangularロバストMDPにおける方策勾配[Paper_RMDP_rectangular_PG.ipynb](Paper_RMDP_rectangular_PG.ipynb)
 83. 05/26：制約付きロバストMDP2:
 84. 05/27：確率的最適化，近接勾配法とSGDの収束レート2：[Stochastic_Optimization_SGD.ipynb](Stochastic_Optimization_SGD.ipynb)
+85. 05/28：EpiRC-PGSの実装(途中)：[EpiRC-PGS.ipynb](EpiRC-PGS.ipynb)
