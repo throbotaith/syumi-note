@@ -185,3 +185,4 @@
 83. 05/26：制約付きロバストMDP2:
 84. 05/27：確率的最適化，近接勾配法とSGDの収束レート2：[Stochastic_Optimization_SGD.ipynb](Stochastic_Optimization_SGD.ipynb)
 85. 05/28：EpiRC-PGSの実装(途中)：[EpiRC-PGS.ipynb](EpiRC-PGS.ipynb)
+86. 05/29：EpiRC-PGSの実装（完成）：[EpiRC-PGS.ipynb](EpiRC-PGS.ipynb)
