@@ -83,6 +83,7 @@
 - 確率的勾配降下法：[Stochastic_Optimization_SGD.ipynb](Stochastic_Optimization_SGD.ipynb)
 - 弱凸関数の確率的モデルベース最小化：[Paper_weak_convex_proj_grad.ipynb](Paper_weak_convex_proj_grad.ipynb)
 - 鏡像降下法：[Stochastic_Optimization_SMD.ipynb](Stochastic_Optimization_SMD.ipynb)
+- 最急降下法の実装[Implement_SGD.ipynb](Implement_SGD.ipynb)
 
 ---
 ## 機械学習のための数理解析
@@ -184,5 +185,6 @@
 82. 05/25：RectangularロバストMDPにおける方策勾配[Paper_RMDP_rectangular_PG.ipynb](Paper_RMDP_rectangular_PG.ipynb)
 83. 05/26：制約付きロバストMDP2:
 84. 05/27：確率的最適化，近接勾配法とSGDの収束レート2：[Stochastic_Optimization_SGD.ipynb](Stochastic_Optimization_SGD.ipynb)
-85. 05/28：EpiRC-PGSの実装(途中)：[EpiRC-PGS.ipynb](EpiRC-PGS.ipynb)
+85. 05/28：EpiRC-PGSの実装：[EpiRC-PGS.ipynb](EpiRC-PGS.ipynb)
 86. 05/29：EpiRC-PGSの実装（完成）：[EpiRC-PGS.ipynb](EpiRC-PGS.ipynb)
+87. 05/30：最急降下法の実装(途中)：[Implement_SGD.ipynb](Implement_SGD.ipynb)
