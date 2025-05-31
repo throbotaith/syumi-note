@@ -188,3 +188,4 @@
 85. 05/28：EpiRC-PGSの実装：[EpiRC-PGS.ipynb](EpiRC-PGS.ipynb)
 86. 05/29：EpiRC-PGSの実装（完成）：[EpiRC-PGS.ipynb](EpiRC-PGS.ipynb)
 87. 05/30：最急降下法の実装(途中)：[Implement_SGD.ipynb](Implement_SGD.ipynb)
+88. 05/31：復習日
