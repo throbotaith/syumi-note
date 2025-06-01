@@ -26,6 +26,7 @@
 - Generative modelsを用いたロバスト強化学習のサンプル複雑度： [Paper_Sample_Complexity_of_RMDP.ipynb](Paper_Sample_Complexity_of_RMDP.ipynb)
 - ロバスト制約つきMDP，弱凸関数の勾配支配:[Paper_RCMDP_weak_conv_grad_dominance.ipynb](Paper_RCMDP_weak_conv_grad_dominance.ipynb)
 - RectangularロバストMDPにおける方策勾配[Paper_RMDP_rectangular_PG.ipynb](Paper_RMDP_rectangular_PG.ipynb)
+- 単一ループのRMP：[Paper_Single_loop_RMDP.ipynb](Paper_Single_loop_RMDP.ipynb)
 
 ### 制約付きMDP（CMDP）
 
@@ -189,3 +190,4 @@
 86. 05/29：EpiRC-PGSの実装（完成）：[EpiRC-PGS.ipynb](EpiRC-PGS.ipynb)
 87. 05/30：最急降下法の実装(途中)：[Implement_SGD.ipynb](Implement_SGD.ipynb)
 88. 05/31：復習日
+89. 06/01：単一ループのRMP：[Paper_Single_loop_RMDP.ipynb](Paper_Single_loop_RMDP.ipynb)
