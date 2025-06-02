@@ -190,4 +190,5 @@
 86. 05/29：EpiRC-PGSの実装（完成）：[EpiRC-PGS.ipynb](EpiRC-PGS.ipynb)
 87. 05/30：最急降下法の実装(途中)：[Implement_SGD.ipynb](Implement_SGD.ipynb)
 88. 05/31：復習日
-89. 06/01：単一ループのRMP：[Paper_Single_loop_RMDP.ipynb](Paper_Single_loop_RMDP.ipynb)
+89. 06/01：単一ループのRMP1：[Paper_Single_loop_RMDP.ipynb](Paper_Single_loop_RMDP.ipynb)
+90. 06/02：単一ループのRMP2：[Paper_Single_loop_RMDP.ipynb](Paper_Single_loop_RMDP.ipynb)
