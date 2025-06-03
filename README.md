@@ -192,3 +192,4 @@
 88. 05/31：復習日
 89. 06/01：単一ループのRMP1：[Paper_Single_loop_RMDP.ipynb](Paper_Single_loop_RMDP.ipynb)
 90. 06/02：単一ループのRMP2：[Paper_Single_loop_RMDP.ipynb](Paper_Single_loop_RMDP.ipynb)
+91. 06/03：問題解決の方法途中：[Math_IMO_part1.ipynb](Math_IMO_part1.ipynb)
