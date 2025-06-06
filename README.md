@@ -91,6 +91,8 @@
 - 確率不等式大全:[Math_Probability_Inequalities.ipynb](Math_Probability_Inequalities.ipynb)
 - 一様収束と汎化解析(途中)：[Math_Uniform_Convergence.ipynb](Math_Uniform_Convergence.ipynb)
 - 被覆とVC理論：[Math_VC_theory.ipynb](Math_VC_theory.ipynb)
+- 被覆数とパッキング数(途中):[Math_Convering_Estimation.ipynb](Math_Convering_Estimation.ipynb)
+
 ---
 
 ## その他
@@ -200,3 +202,4 @@
 91. 06/03：問題解決の方法途中：[Math_IMO_part1.ipynb](Math_IMO_part1.ipynb)
 92. 06/04：LoRAの理論解析：[LLM_LoRA_theory.ipynb](LLM_LoRA_theory.ipynb)
 93. 06/05：制約付きロバストMDP3
+94. 06/06：被覆数とパッキング数(途中):[Math_Convering_Estimation.ipynb](Math_Convering_Estimation.ipynb)
