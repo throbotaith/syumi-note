@@ -204,3 +204,4 @@
 93. 06/05：制約付きロバストMDP3
 94. 06/06：被覆数とパッキング数(途中):[Math_Convering_Estimation.ipynb](Math_Convering_Estimation.ipynb)
 95. 06/07：被覆数とパッキング数(途中):[Math_Convering_Estimation.ipynb](Math_Convering_Estimation.ipynb)
+96. 06/08：復習日
