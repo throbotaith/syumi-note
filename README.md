@@ -205,4 +205,5 @@
 94. 06/06：被覆数とパッキング数(途中):[Math_Convering_Estimation.ipynb](Math_Convering_Estimation.ipynb)
 95. 06/07：被覆数とパッキング数(途中):[Math_Convering_Estimation.ipynb](Math_Convering_Estimation.ipynb)
 96. 06/08：復習日
-97. 06/09：：凸解析の基礎3制約想定1[Non_Linear_optimization_chapter3_part2.ipynb](Non_Linear_optimization_chapter3_part2.ipynb)
+97. 06/09：凸解析の基礎3制約想定1[Non_Linear_optimization_chapter3_part2.ipynb](Non_Linear_optimization_chapter3_part2.ipynb)
+98. 06/10：凸解析の基礎3鞍点定理[Non_Linear_optimization_chapter3_part2.ipynb](Non_Linear_optimization_chapter3_part2.ipynb)
