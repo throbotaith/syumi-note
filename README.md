@@ -77,7 +77,8 @@
 - Chapter 2_part1(超平面、分離超平面、支持超平面、凸集合、陰関数定理など)：[Non_Linear_optimization_chapter2_part1.ipynb](Non_Linear_optimization_chapter2_part1.ipynb)
 - Chapter 2_part2(凸関数、共役関数、劣勾配など)：[Non_Linear_optimization_chapter2_part2.ipynb](Non_Linear_optimization_chapter2_part2.ipynb)
 - Chapter 3(最適解)：[Non_Linear_optimization_chapter3_part1.ipynb](Non_Linear_optimization_chapter3_part1.ipynb)
-- Chapter 3(最適性条件)：[Non_Linear_optimization_chapter3_part2.ipynb](Non_Linear_optimization_chapter3_part2.ipynb)
+- Chapter 3(最適性条件(制約想定とKKT条件))：[Non_Linear_optimization_chapter3_part2.ipynb](Non_Linear_optimization_chapter3_part2.ipynb)
+- Chapter 4(Boyd本の双対理論)[Non_Linear_optimization_chapter4_part1.ipynb](Non_Linear_optimization_chapter4_part1.ipynb)
 ---
 
 ## 確率的最適化
@@ -207,3 +208,4 @@
 96. 06/08：復習日
 97. 06/09：凸解析の基礎3制約想定1[Non_Linear_optimization_chapter3_part2.ipynb](Non_Linear_optimization_chapter3_part2.ipynb)
 98. 06/10：凸解析の基礎3鞍点定理[Non_Linear_optimization_chapter3_part2.ipynb](Non_Linear_optimization_chapter3_part2.ipynb)
+99. 06/11：凸解析の基礎4双対理論[Non_Linear_optimization_chapter4_part1.ipynb](Non_Linear_optimization_chapter4_part1.ipynb)
