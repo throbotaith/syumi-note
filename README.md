@@ -93,6 +93,7 @@
 - 一様収束と汎化解析(途中)：[Math_Uniform_Convergence.ipynb](Math_Uniform_Convergence.ipynb)
 - 被覆とVC理論：[Math_VC_theory.ipynb](Math_VC_theory.ipynb)
 - 被覆数とパッキング数(途中):[Math_Convering_Estimation.ipynb](Math_Convering_Estimation.ipynb)
+- ラデマッハ複雑度と集中不等式：[Math_Rademacher_Complexity.ipynb](Math_Rademacher_Complexity.ipynb)
 
 ---
 
@@ -209,3 +210,4 @@
 97. 06/09：凸解析の基礎3制約想定1[Non_Linear_optimization_chapter3_part2.ipynb](Non_Linear_optimization_chapter3_part2.ipynb)
 98. 06/10：凸解析の基礎3鞍点定理[Non_Linear_optimization_chapter3_part2.ipynb](Non_Linear_optimization_chapter3_part2.ipynb)
 99. 06/11：凸解析の基礎4双対理論[Non_Linear_optimization_chapter4_part1.ipynb](Non_Linear_optimization_chapter4_part1.ipynb)
+100. 06/12：ラデマッハ複雑度と集中不等式：[Math_Rademacher_Complexity.ipynb](Math_Rademacher_Complexity.ipynb)
