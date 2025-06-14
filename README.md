@@ -212,3 +212,4 @@
 99. 06/11：凸解析の基礎4双対理論[Non_Linear_optimization_chapter4_part1.ipynb](Non_Linear_optimization_chapter4_part1.ipynb)
 100. 06/12：ラデマッハ複雑度と集中不等式：[Math_Rademacher_Complexity.ipynb](Math_Rademacher_Complexity.ipynb)
 101. 06/13：復習日
+102. 06/14：線形計画問題と強化学習
