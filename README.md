@@ -6,8 +6,9 @@
 ## 強化学習
 
 ### Reinforcement Learning : Theory and Algorithms
-- 第1章（線形計画）：[RL_Theorybook_Chapter_1_LP.ipynb](RL_Theorybook_Chapter_1_LP.ipynb)
 - 第1章：[RL_Theorybook_Chapter_1.ipynb](RL_Theorybook_Chapter_1.ipynb)
+- 第1章(線形計画問題と双対)：[RL_Theorybook_Chapter_1_LP.ipynb](RL_Theorybook_Chapter_1_LP.ipynb)
+- 第1章（線形計画問題の実装）：[RL_Theorybook_Chapter_1_LP_implement.ipynb](RL_Theorybook_Chapter_1_LP_implement.ipynb)
 - 第2章：[RL_Theorybook_Chapter_2.ipynb](RL_Theorybook_Chapter_2.ipynb)
 - 第3章：[RL_Theorybook_Chapter_3.ipynb](RL_Theorybook_Chapter_3.ipynb)
 - 第4章：[RL_Theorybook_Chapter_4.ipynb](RL_Theorybook_Chapter_4.ipynb)
@@ -212,4 +213,5 @@
 99. 06/11：凸解析の基礎4双対理論[Non_Linear_optimization_chapter4_part1.ipynb](Non_Linear_optimization_chapter4_part1.ipynb)
 100. 06/12：ラデマッハ複雑度と集中不等式：[Math_Rademacher_Complexity.ipynb](Math_Rademacher_Complexity.ipynb)
 101. 06/13：復習日
-102. 06/14：線形計画問題と強化学習
+102. 06/14：第1章(線形計画と双対)1：[RL_Theorybook_Chapter_1_LP.ipynb](RL_Theorybook_Chapter_1_LP.ipynb)
+103. 06/15：第1章(線形計画と双対)2：[RL_Theorybook_Chapter_1_LP.ipynb](RL_Theorybook_Chapter_1_LP.ipynb)
