@@ -215,3 +215,4 @@
 101. 06/13：復習日
 102. 06/14：第1章(線形計画と双対)1：[RL_Theorybook_Chapter_1_LP.ipynb](RL_Theorybook_Chapter_1_LP.ipynb)
 103. 06/15：第1章(線形計画と双対)2：[RL_Theorybook_Chapter_1_LP.ipynb](RL_Theorybook_Chapter_1_LP.ipynb)
+104. 06/16：第1章(線形計画と双対)3：[RL_Theorybook_Chapter_1_LP.ipynb](RL_Theorybook_Chapter_1_LP.ipynb)
