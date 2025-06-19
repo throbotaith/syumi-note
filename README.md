@@ -218,3 +218,4 @@
 104. 06/16：第1章(線形計画と双対)3：[RL_Theorybook_Chapter_1_LP.ipynb](RL_Theorybook_Chapter_1_LP.ipynb)
 105. 06/17：測度論的確率論の練習問題：[Math_Probability_Theory.ipynb](Math_Probability_Theory.ipynb)
 106. 06/18：確率的二分探索の実装(code is comming soon...)
+107. 06/19：確率収束
