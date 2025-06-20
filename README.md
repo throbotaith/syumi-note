@@ -219,3 +219,4 @@
 105. 06/17：測度論的確率論の練習問題：[Math_Probability_Theory.ipynb](Math_Probability_Theory.ipynb)
 106. 06/18：確率的二分探索の実装(code is comming soon...)
 107. 06/19：確率収束
+108. 06/20：復習日
