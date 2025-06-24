@@ -220,5 +220,7 @@
 106. 06/18：確率的二分探索の実装(code is comming soon...)
 107. 06/19：確率収束
 108. 06/20：復習日
-109. 06/21
-110. 06/22
+109. 06/21：解析の基礎4双対理論[Non_Linear_optimization_chapter4_part1.ipynb](Non_Linear_optimization_chapter4_part1.ipynb)
+110. 06/22：最急降下法の実装(途中)：[Implement_SGD.ipynb](Implement_SGD.ipynb)
+111. 06/23：ロバスト制約つきMDP，弱凸関数の勾配支配:[Paper_RCMDP_weak_conv_grad_dominance.ipynb](Paper_RCMDP_weak_conv_grad_dominance.ipynb)
+112. 06/24：
