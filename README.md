@@ -224,3 +224,4 @@
 110. 06/22：最急降下法の実装(途中)：[Implement_SGD.ipynb](Implement_SGD.ipynb)
 111. 06/23：ロバスト制約つきMDP，弱凸関数の勾配支配:[Paper_RCMDP_weak_conv_grad_dominance.ipynb](Paper_RCMDP_weak_conv_grad_dominance.ipynb)
 112. 06/24：
+113. 06/25：強化学習の基礎理論復習：
