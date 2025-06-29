@@ -228,3 +228,4 @@
 114. 06/26：強化学習の基礎理論復習：
 115. 06/27：強化学習の基礎理論復習：
 116. 06/28：強化学習の基礎理論復習：
+117. 06/29： ロバスト制約つきMDP2，弱凸関数の勾配支配:[Paper_RCMDP_weak_conv_grad_dominance.ipynb](Paper_RCMDP_weak_conv_grad_dominance.ipynb)
