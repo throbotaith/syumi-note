@@ -102,6 +102,7 @@
 - 拡散モデルの理論：[Theory_of_diffusion_model.ipynb](Theory_of_diffusion_model.ipynb)
 - RL用ユーティリティ：[RL_utils.ipynb](RL_utils.ipynb)
 - 確率的二分探索：[Paper_PBA.ipynb](Paper_PBA.ipynb)
+- エピグラフ形式の定式化[Non_Linear_optimization_epigraph_formulation.ipynb](Non_Linear_optimization_epigraph_formulation.ipynb)
 ---
 
 ## 大規模モデル
