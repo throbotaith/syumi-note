@@ -229,3 +229,4 @@
 115. 06/27：強化学習の基礎理論復習：
 116. 06/28：強化学習の基礎理論復習：
 117. 06/29： ロバスト制約つきMDP2，弱凸関数の勾配支配:[Paper_RCMDP_weak_conv_grad_dominance.ipynb](Paper_RCMDP_weak_conv_grad_dominance.ipynb)
+118. 06/30：エピグラフ形式の定式化[Non_Linear_optimization_epigraph_formulation.ipynb](Non_Linear_optimization_epigraph_formulation.ipynb)
