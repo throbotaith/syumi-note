@@ -234,3 +234,4 @@
 118. 06/30：エピグラフ形式の定式化[Non_Linear_optimization_epigraph_formulation.ipynb](Non_Linear_optimization_epigraph_formulation.ipynb)
 119. 07/02：ExogenousBlockMDPとLocal access 1
 120. 07/02：ExogenousBlockMDPとLocal access 2
+121. 07/04：DROのイントロ修正，読みやすくなったと思う[DRO_Chapter_2_uncertainty_sets.ipynb](DRO_Chapter_2_uncertainty_sets.ipynb)
