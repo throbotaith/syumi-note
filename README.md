@@ -236,3 +236,4 @@
 120. 07/02：ExogenousBlockMDPとLocal access 2
 121. 07/04：DROのイントロ修正，読みやすくなったと思う[DRO_Chapter_2_uncertainty_sets.ipynb](DRO_Chapter_2_uncertainty_sets.ipynb)
 122. 07/05：凸解析，アフィン集合と超平面の部分修正[Non_Linear_optimization_chapter2_part1.ipynb](Non_Linear_optimization_chapter2_part1.ipynb)
+123. 07/06
