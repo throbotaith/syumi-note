@@ -59,6 +59,7 @@
 - モーメンタムはSGDを改善させる：[Paper_Momentum_improves_SGD.ipynb](Paper_Momentum_improves_SGD.ipynb)
 - 価値関数ポリトープ：[Paper_Geometory_of_Value_Function.ipynb](Paper_Geometory_of_Value_Function.ipynb)
 - ロバスト価値関数ポリトープ[Paper_Geometory_of_Robust_Value_Function.ipynb](Paper_Geometory_of_Robust_Value_Function.ipynb)
+- 熱方程式と方策勾配[Paper_Molification_of_PG.ipynb](Paper_Molification_of_PG.ipynb)
 ---
 
 ## 分布ロバスト最適化（DRO）
@@ -240,4 +241,4 @@
 121. 07/04：DROのイントロ修正，読みやすくなったと思う[DRO_Chapter_2_uncertainty_sets.ipynb](DRO_Chapter_2_uncertainty_sets.ipynb)
 122. 07/05：凸解析，アフィン集合と超平面の部分修正[Non_Linear_optimization_chapter2_part1.ipynb](Non_Linear_optimization_chapter2_part1.ipynb)
 123. 07/06：復習
-124. 
+124. 07/13：熱方程式と方策勾配[Paper_Molification_of_PG.ipynb](Paper_Molification_of_PG.ipynb)
