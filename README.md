@@ -93,6 +93,9 @@
 - 鏡像降下法：[Stochastic_Optimization_SMD.ipynb](Stochastic_Optimization_SMD.ipynb)
 - 最急降下法の実装[Implement_SGD.ipynb](Implement_SGD.ipynb)
 
+## 確率論と確率過程
+- 確率論演習問題解答：[Bandit_book_Probability_Answer.ipynb](Bandit_book_Probability_Answer.ipynb)
+
 ---
 ## 機械学習のための数理解析
 - 確率不等式大全:[Math_Probability_Inequalities.ipynb](Math_Probability_Inequalities.ipynb)
@@ -222,7 +225,7 @@
 102. 06/14：第1章(線形計画と双対)1：[RL_Theorybook_Chapter_1_LP.ipynb](RL_Theorybook_Chapter_1_LP.ipynb)
 103. 06/15：第1章(線形計画と双対)2：[RL_Theorybook_Chapter_1_LP.ipynb](RL_Theorybook_Chapter_1_LP.ipynb)
 104. 06/16：第1章(線形計画と双対)3：[RL_Theorybook_Chapter_1_LP.ipynb](RL_Theorybook_Chapter_1_LP.ipynb)
-105. 06/17：測度論的確率論の練習問題：[Math_Probability_Theory.ipynb](Math_Probability_Theory.ipynb)
+105. 06/17：確率論演習問題解答2.1：[Bandit_book_Probability_Answer.ipynb](Bandit_book_Probability_Answer.ipynb)
 106. 06/18：確率的二分探索の実装(code is comming soon...)
 107. 06/19：確率収束
 108. 06/20：復習日
@@ -242,3 +245,4 @@
 122. 07/05：凸解析，アフィン集合と超平面の部分修正[Non_Linear_optimization_chapter2_part1.ipynb](Non_Linear_optimization_chapter2_part1.ipynb)
 123. 07/06：復習
 124. 07/13：熱方程式と方策勾配[Paper_Molification_of_PG.ipynb](Paper_Molification_of_PG.ipynb)
+125. 07/14：確率論演習問題解答2.2：[Bandit_book_Probability_Answer.ipynb](Bandit_book_Probability_Answer.ipynb)
