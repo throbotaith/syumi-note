@@ -248,3 +248,4 @@
 123. 07/06：復習
 124. 07/13：熱方程式と方策勾配[Paper_Molification_of_PG.ipynb](Paper_Molification_of_PG.ipynb)
 125. 07/14：確率論演習問題解答2.2：[Bandit_book_Probability_Answer.ipynb](Bandit_book_Probability_Answer.ipynb)
+126. 07/17：予定：PBA外側ループ証明，Hidden convexityの研究
