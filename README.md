@@ -255,3 +255,4 @@
 125. 07/14：確率論演習問題解答2.2：[Bandit_book_Probability_Answer.ipynb](Bandit_book_Probability_Answer.ipynb)
 126. 07/17：予定：PBA外側ループ証明，Hidden convexityの研究
 127. 07/23：隠れ凸性の研究[Paper_hidden_convexity.ipynb](Paper_hidden_convexity.ipynb)
+128. 07/24：ニューラルネットワークの解析
