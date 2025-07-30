@@ -47,6 +47,7 @@
 ### ロバスト制約付きMDP（RCMDP）
 
 - EpiRC-PGS0の実装：[EpiRC-PGS.ipynb](EpiRC-PGS.ipynb)
+- S-EPiRC-PGSの実装[Implement_S_EpiRC-PGS.ipynb](Implement_S_EpiRC-PGS.ipynb)
 - 
 ### バンディット問題
 - ETCアルゴリズム：[Bandit_ETC.ipynb](Bandit_ETC.ipynb)
@@ -257,3 +258,4 @@
 127. 07/23：隠れ凸性の研究[Paper_hidden_convexity.ipynb](Paper_hidden_convexity.ipynb)
 128. 07/24：ニューラルネットワークの解析
 129. 07/26：復習日
+130. 07/30：S-EPiRC-PGSの実装[Implement_S_EpiRC-PGS.ipynb](Implement_S_EpiRC-PGS.ipynb)
