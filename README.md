@@ -259,3 +259,4 @@
 128. 07/24：ニューラルネットワークの解析
 129. 07/26：復習日
 130. 07/30：S-EPiRC-PGSの実装[Implement_S_EpiRC-PGS.ipynb](Implement_S_EpiRC-PGS.ipynb)
+131. 08/01：隠れ凸性の研究2[Paper_hidden_convexity.ipynb](Paper_hidden_convexity.ipynb)
