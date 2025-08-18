@@ -95,13 +95,16 @@
 - 第3章（Subgradient）：[Beck_gradient_Chapter_3_subgradient.ipynb](Beck_gradient_Chapter_3_subgradient.ipynb)
 - 第4章（L-smooth & Strong Convex）：[Beck_gradient_Chapter_4_L-smooth_strong_convex.ipynb](Beck_gradient_Chapter_4_L-smooth_strong_convex.ipynb)
 
-### 非線形最適化の基礎(福島先生の本(*一般的な定理のまとめのみ))
+### 非線形最適化の基礎(福島先生の本(*一般的な定理のまとめのみ)+α)
 - Chapter 1 + 可視化：[Non_Linear_optimization_chapter1_and_visualization.ipynb](Non_Linear_optimization_chapter1_and_visualization.ipynb)
 - Chapter 2_part1(超平面、分離超平面、支持超平面、凸集合、陰関数定理など)：[Non_Linear_optimization_chapter2_part1.ipynb](Non_Linear_optimization_chapter2_part1.ipynb)
 - Chapter 2_part2(凸関数、共役関数、劣勾配など)：[Non_Linear_optimization_chapter2_part2.ipynb](Non_Linear_optimization_chapter2_part2.ipynb)
 - Chapter 3(最適解)：[Non_Linear_optimization_chapter3_part1.ipynb](Non_Linear_optimization_chapter3_part1.ipynb)
 - Chapter 3(最適性条件(制約想定とKKT条件))：[Non_Linear_optimization_chapter3_part2.ipynb](Non_Linear_optimization_chapter3_part2.ipynb)
-- Chapter 4(Boyd本の双対理論)[Non_Linear_optimization_chapter4_part1.ipynb](Non_Linear_optimization_chapter4_part1.ipynb)
+- Chapter 4(双対理論)：[Non_Linear_optimization_chapter4.ipynb](Non_Linear_optimization_chapter4.ipynb)
+
+
+- 番外編(Boyd本の双対理論)[Non_Linear_optimization_chapter4_part1.ipynb](Non_Linear_optimization_chapter4_part1.ipynb)
 ---
 
 ## 確率的最適化
@@ -272,3 +275,5 @@
 132. 08/04：方策勾配の基礎：状態価値関数の導出[RL_Foundation_of_Policy_Gradient.ipynb](RL_Foundation_of_Policy_Gradient.ipynb)
 134. 08/07：方策勾配の基礎；方策勾配の導出[RL_Foundation_of_Policy_Gradient.ipynb](RL_Foundation_of_Policy_Gradient.ipynb)
 135. 08/11：隠れ凸性における確率的射影劣勾配法
+136. 08/18：久しぶりに再開します！Chapter 4(双対理論)：[Non_Linear_optimization_chapter4.ipynb](Non_Linear_optimization_chapter4.ipynb)
+    
