@@ -11,10 +11,6 @@
 
 
 
-
-
-
-
 ## 強化学習 
 
 ### Reinforcement Learning : Theory and Algorithms
