@@ -26,6 +26,7 @@
 
 ### 方策勾配法（PG）
 - 方策勾配の基礎[RL_Foundation_of_Policy_Gradient.ipynb](RL_Foundation_of_Policy_Gradient.ipynb)
+- 性能差補題の導出[RL_policy_gradient_practice.ipynb](RL_policy_gradient_practice.ipynb)
 
 ### ロバストMDP（RMDP）
 - RMDP理論論文の証明：[Paper_RMDP_thoery.ipynb](Paper_RMDP_thoery.ipynb)
@@ -267,6 +268,7 @@
 135. 08/11：隠れ凸性における確率的射影劣勾配法
 136. 08/18：久しぶりに再開します！Chapter 4(双対理論)：[Non_Linear_optimization_chapter4.ipynb](Non_Linear_optimization_chapter4.ipynb)
 137. 08/21：情報幾何学第1章；十分統計量（ノートブックは後日） 
+138. 08/30：性能差補題の導出[RL_policy_gradient_practice.ipynb](RL_policy_gradient_practice.ipynb)
 
 
     
