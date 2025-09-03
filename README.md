@@ -264,10 +264,11 @@
 132. 08/04：方策勾配の基礎：状態価値関数の導出[RL_Foundation_of_Policy_Gradient.ipynb](RL_Foundation_of_Policy_Gradient.ipynb)
 134. 08/07：方策勾配の基礎；方策勾配の導出[RL_Foundation_of_Policy_Gradient.ipynb](RL_Foundation_of_Policy_Gradient.ipynb)
 135. 08/11：隠れ凸性における確率的射影劣勾配法
-136. 08/18：久しぶりに再開します！Chapter 4(双対理論)：[Non_Linear_optimization_chapter4.ipynb](Non_Linear_optimization_chapter4.ipynb)
+136. 08/18：Chapter 4(双対理論)：[Non_Linear_optimization_chapter4.ipynb](Non_Linear_optimization_chapter4.ipynb)
 137. 08/21：情報幾何学第1章；十分統計量（ノートブックは後日） 
 138. 08/30：性能差補題の導出[RL_policy_gradient_practice.ipynb](RL_policy_gradient_practice.ipynb)
 139. 09/01：Beck本 劣勾配
+140. 09/03：鞍点と凸性
 
 
     
