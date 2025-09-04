@@ -269,6 +269,7 @@
 138. 08/30：性能差補題の導出[RL_policy_gradient_practice.ipynb](RL_policy_gradient_practice.ipynb)
 139. 09/01：Beck本 劣勾配
 140. 09/03：鞍点と凸性
+141. 09/04：Beck本 劣勾配の性質
 
 
     
