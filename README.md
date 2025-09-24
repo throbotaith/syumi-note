@@ -65,6 +65,7 @@
 - ロバスト価値関数ポリトープ[Paper_Geometory_of_Robust_Value_Function.ipynb](Paper_Geometory_of_Robust_Value_Function.ipynb)
 - 熱方程式と方策勾配[Paper_Molification_of_PG.ipynb](Paper_Molification_of_PG.ipynb)
 - 隠れ凸性の研究[Paper_hidden_convexity.ipynb](Paper_hidden_convexity.ipynb)
+- 凹MDPにおけるPrimal Dual法[Paper_PD_on_ConcaveMDP.ipynb](Paper_PD_on_ConcaveMDP.ipynb)
 ---
 
 ## 分布ロバスト最適化（DRO）
@@ -274,5 +275,6 @@
 144. 09/21：隠れ凸性
 145. 09/22：勾配推定
 146. 09/23：隠れ凸性の定義
+147. 09/24：凹MDPにおけるPrimal Dual法
 
     
