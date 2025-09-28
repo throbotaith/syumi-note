@@ -67,6 +67,8 @@
 - 熱方程式と方策勾配[Paper_Molification_of_PG.ipynb](Paper_Molification_of_PG.ipynb)
 - 隠れ凸性の研究[Paper_hidden_convexity.ipynb](Paper_hidden_convexity.ipynb)
 - 凹MDPにおけるPrimal Dual法[Paper_PD_on_ConcaveMDP.ipynb](Paper_PD_on_ConcaveMDP.ipynb)
+- CMDPにおける安全な探索[Paper_CMDP_Safe_Exp.ipynb](Paper_CMDP_Safe_Exp.ipynb)
+
 ---
 
 ## 分布ロバスト最適化（DRO）
@@ -278,5 +280,6 @@
 146. 09/23：隠れ凸性の定義
 147. 09/24：凹MDPにおけるPrimal Dual法
 148. 09/27：凹MDPにおけるPrimal Dual法　証明
+149. 09/28：CMDPにおける安全な探索[Paper_CMDP_Safe_Exp.ipynb](Paper_CMDP_Safe_Exp.ipynb)
 
     
