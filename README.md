@@ -68,6 +68,7 @@
 - 隠れ凸性の研究[Paper_hidden_convexity.ipynb](Paper_hidden_convexity.ipynb)
 - 凹MDPにおけるPrimal Dual法[Paper_PD_on_ConcaveMDP.ipynb](Paper_PD_on_ConcaveMDP.ipynb)
 - CMDPにおける安全な探索[Paper_CMDP_Safe_Exp.ipynb](Paper_CMDP_Safe_Exp.ipynb)
+- 変分方策勾配法[Paper_RL_Variational_PG.ipynb](Paper_RL_Variational_PG.ipynb)
 
 ---
 
@@ -281,5 +282,6 @@
 147. 09/24：凹MDPにおけるPrimal Dual法
 148. 09/27：凹MDPにおけるPrimal Dual法　証明
 149. 09/28：CMDPにおける安全な探索[Paper_CMDP_Safe_Exp.ipynb](Paper_CMDP_Safe_Exp.ipynb)
+150. 09/29：!**途中**!変分方策勾配法[Paper_RL_Variational_PG.ipynb](Paper_RL_Variational_PG.ipynb)
 
     
