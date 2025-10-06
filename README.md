@@ -280,6 +280,7 @@
 147. 09/24：凹MDPにおけるPrimal Dual法
 148. 09/27：凹MDPにおけるPrimal Dual法　証明
 149. 09/28：CMDPにおける安全な探索[Paper_CMDP_Safe_Exp.ipynb](Paper_CMDP_Safe_Exp.ipynb)
-150. 09/29,30,10/01,10/02：!**途中**!変分方策勾配法[Paper_RL_Variational_PG.ipynb](Paper_RL_Variational_PG.ipynb)
+150. 09/29,30,10/01,10/02：変分方策勾配法[Paper_RL_Variational_PG.ipynb](Paper_RL_Variational_PG.ipynb)
+151. 10/06：凹MDPにおけるPrimal Dual法
 
     
