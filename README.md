@@ -282,6 +282,7 @@
 150. 09/29,30,10/01,10/02：変分方策勾配法[Paper_RL_Variational_PG.ipynb](Paper_RL_Variational_PG.ipynb)
 151. 10/06：凹MDPにおけるPrimal Dual法
 152. 10/07：CMDPの問題設定survey
+153. 10/08：S-EpiRC-PGSの実装とむずそうなところ整理
 
 
     
