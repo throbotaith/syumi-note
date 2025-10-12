@@ -285,6 +285,7 @@
 151. 10/06：凹MDPにおけるPrimal Dual法
 152. 10/07：CMDPの問題設定survey
 153. 10/08：S-EpiRC-PGSの実装とむずそうなところ整理
+154. 10/12：CMDPにおける安全な探索[Paper_CMDP_Safe_Exp.ipynb](Paper_CMDP_Safe_Exp.ipynb)
 
 
     
