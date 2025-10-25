@@ -287,6 +287,7 @@
 154. 10/12：CMDPにおける安全な探索[Paper_CMDP_Safe_Exp.ipynb](Paper_CMDP_Safe_Exp.ipynb)
 155. 10/17：情報幾何：フィッシャー情報行列
 156. 10/22：CMDP問題設定
+157. 10/25：凹MDPにおけるPrimal Dual法　証明
 
 
 
