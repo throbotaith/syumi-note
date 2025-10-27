@@ -289,6 +289,7 @@
 156. 10/22：CMDP問題設定
 157. 10/25：凹MDPにおけるPrimal Dual法　証明
 158. 10/26：Saute RL
+159. 10/27：凹MDPにおけるPrimal Dual法　証明
 
 
 
