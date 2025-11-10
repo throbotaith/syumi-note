@@ -17,7 +17,6 @@
 - 第12章：[RL_Theorybook_Chapter_12.ipynb](RL_Theorybook_Chapter_12.ipynb)
 - 第14章（Conservative Policy Iteration）：[RL_Theorybook_Chapter_14_CPI.ipynb](RL_Theorybook_Chapter_14_CPI.ipynb)
 - 第14章（Trust Region Policy Optimization(and PPO)）：[RL_Theorybook_Chapter_14_TRPO_PPO.ipynb](RL_Theorybook_Chapter_14_TRPO_PPO.ipynb)
-
 ### 方策勾配法（PG）
 - 方策勾配の基礎[RL_Foundation_of_Policy_Gradient.ipynb](RL_Foundation_of_Policy_Gradient.ipynb)
 - 性能差補題の導出[RL_policy_gradient_practice.ipynb](RL_policy_gradient_practice.ipynb)
