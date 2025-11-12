@@ -292,6 +292,7 @@
 160. 10/31：凹CMDPにおける方策勾配法：[Paper_PD_on_凹CMDP.ipynb](Paper_PD_on_凹CMDP.ipynb)
 161. 11/06：凹CMDPにおける方策勾配法：[Paper_PD_on_凹CMDP.ipynb](Paper_PD_on_凹CMDP.ipynb)
 162. 11/08：MG
+163. 11/12：Risk sensitive MDP
 
 
 
