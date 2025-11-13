@@ -34,7 +34,6 @@
 
 ### 制約付きMDP（CMDP）
 
-
 - Altman本 第3章：[CMDP_Altman_Chapter_3.ipynb](CMDP_Altman_Chapter_3.ipynb)
 - RCMDPのサブルーチン：[RCMDP_subrountine.ipynb](RCMDP_subrountine.ipynb)
 - 凹CMDPにおける方策勾配法：[Paper_PD_on_凹CMDP.ipynb](Paper_PD_on_凹CMDP.ipynb)
