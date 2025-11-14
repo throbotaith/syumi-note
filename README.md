@@ -20,7 +20,6 @@
 ### 方策勾配法（PG）
 - 方策勾配の基礎[RL_Foundation_of_Policy_Gradient.ipynb](RL_Foundation_of_Policy_Gradient.ipynb)
 - 性能差補題の導出[RL_policy_gradient_practice.ipynb](RL_policy_gradient_practice.ipynb)
-
 ### ロバストMDP（RMDP）
 - RMDP理論論文の証明：[Paper_RMDP_thoery.ipynb](Paper_RMDP_thoery.ipynb)
 - RMDPの基礎から方策勾配法まで（メモ）：[RMDP_foundations.ipynb](RMDP_foundations.ipynb)
