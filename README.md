@@ -71,6 +71,7 @@
 
 ---
 
+
 ## 分布ロバスト最適化（DRO）
 - DRO理論本 第1,2章(導入、不確実性集合)：[DRO_Chapter_2_uncertainty_sets.ipynb](DRO_Chapter_2_uncertainty_sets.ipynb)
 - DRO理論本 第3章(不確実性集合のトポロジー性質)：[DRO_Chapter_3_topology_of_uncertainty_sets.ipynb](DRO_Chapter_3_topology_of_uncertainty_sets.ipynb)
