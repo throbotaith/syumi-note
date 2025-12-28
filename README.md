@@ -7,6 +7,7 @@
 
 
 
+
 ## 強化学習 
 ### Reinforcement Learning : Theory and Algorithms
 - 第1章：[RL_Theorybook_Chapter_1.ipynb](RL_Theorybook_Chapter_1.ipynb)
