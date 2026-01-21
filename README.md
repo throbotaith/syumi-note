@@ -4,6 +4,7 @@
 * 学びノートを追加しました．散らかりがちな各論文や本での発見を1つのページにまとめます．
 # 分野別のNotebook一覧
 ## 強化学習 
+
 ### Reinforcement Learning : Theory and Algorithms
 - 第1章：[RL_Theorybook_Chapter_1.ipynb](RL_Theorybook_Chapter_1.ipynb)
 - 第1章(線形計画問題と双対)：[RL_Theorybook_Chapter_1_LP.ipynb](RL_Theorybook_Chapter_1_LP.ipynb)
